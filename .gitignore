@@ -1,0 +1,6 @@
+*.jks
+*.keystore
+*.properties
+*.log
+private/
+secrets/
