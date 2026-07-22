@@ -1,7 +1,1 @@
-{
-    "versionCode":  112,
-    "versionName":  "1.1.1",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v1.1.1/QuietShield-Premium-v1.1.1.apk",
-    "sha256":  "90d79205a8c2e2aeea268f48a598ceb6cc1562cbd36eee5d09c2d05479d9f2f1",
-    "notes":  "QuietShield 1.1.1 fixes App Connection Lock crashes, stabilizes app-list searches, adds visible profile checkboxes, and improves Secure Website Protection persistence."
-}
+{"versionCode":211,"versionName":"1.1.3","apkUrl":"https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v1.1.3/QuietShield-Premium-v1.1.3.apk","sha256":"8b8899588706ddcfc6c7287289f25f86ae7b024bfc4dd5b6936069154cac4cbc","notes":"QuietShield 1.1.3 fixes the secure-proxy shutdown race, adds Protection Effectiveness and privacy-safe missed-content reporting, supports 100 natural-language rules, and adds signed administrator diagnostics and release hardening."}
