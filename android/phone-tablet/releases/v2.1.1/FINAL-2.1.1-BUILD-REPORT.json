@@ -1,0 +1,21 @@
+{
+    "status":  "FINAL_2_1_1_RELEASE_READY",
+    "packageName":  "com.ajleveriza.quietshield",
+    "versionName":  "2.1.1",
+    "versionCode":  225,
+    "signerSha256":  "82eb12f7764e6e6e517bf1c7d1f1097cbe8bd64a6480c88449d886eef5f46c65",
+    "apk":  "D:\\Android Project\\QuietShield-Android-main\\release\\final-v2.1.1\\QuietShield-Premium-v2.1.1.apk",
+    "apkSha256":  "f2228652616a3b454b88bd1c60ef573eb28abcb20ae2511f546c2e02bd8bd96c",
+    "aab":  "D:\\Android Project\\QuietShield-Android-main\\release\\final-v2.1.1\\QuietShield-Premium-v2.1.1.aab",
+    "aabSha256":  "9f631a708f0ca88f5e49a1f1213c003cd8b32a92ad39eb47f329abf5b2b13f20",
+    "backup":  "D:\\Android Project\\QuietShield-Android-main\\.final-release-backups\\v2.1.1-20260723-105319",
+    "androidTvModified":  false,
+    "publicUpdateFeedModified":  false,
+    "familyKeyServerRequired":  true,
+    "advancedFamilyQrHeartbeatActive":  false,
+    "midnightVpnRestartRemoved":  true,
+    "boundedBootRecovery":  true,
+    "appConnectionLockReapplyAtBoot":  true,
+    "signedRemoteFilterDeliveryActive":  false,
+    "generatedAt":  "2026-07-23T10:57:15.0479431+08:00"
+}

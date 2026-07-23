@@ -1,0 +1,52 @@
+QUIETSHIELD 2.1.1 FINAL RELEASE CHECKLIST
+============================================
+
+BUILD
+[ ] Final package validation passes.
+[ ] Compatible current source is accepted.
+[ ] Complete rollback backup is created.
+[ ] Debug and release Kotlin compilation pass.
+[ ] Unit tests pass.
+[ ] Release lint passes.
+[ ] Release APK and AAB assemble.
+[ ] APK reports 2.1.1 code 225.
+[ ] APK is non-debuggable.
+[ ] Permanent signer SHA-256 is verified.
+[ ] Final release directory and SHA256.txt are created.
+
+APP CONNECTION LOCK
+[ ] Enable Block all user apps.
+[ ] Select a custom allowed-app profile.
+[ ] Only checked user apps can connect.
+[ ] Unchecked apps cannot use DNS, direct IP, IPv4, IPv6, TCP, UDP, or QUIC.
+[ ] A newly installed user app is blocked until added.
+[ ] Popup says Strict App Connection Lock is active.
+[ ] Turning strict mode off restores normal all-app DNS protection.
+
+MIDNIGHT AND REBOOT
+[ ] Keep the device running across midnight.
+[ ] Daily counters reset.
+[ ] VPN remains connected.
+[ ] Active profile remains applied.
+[ ] Power the phone off and boot it.
+[ ] Always-on VPN reconnects.
+[ ] Protection and active App Connection Lock profile restore.
+[ ] License remains active.
+[ ] Rules, profiles, and exclusions remain unchanged.
+
+LICENSING
+[ ] Existing activated key remains recognized after in-place update.
+[ ] Cold start verifies with the server.
+[ ] Offline grace works only from a valid signed receipt.
+[ ] Authoritative disabled/removed/expired response removes access.
+[ ] Temporary startup/network failure does not erase the saved key.
+
+UPDATE TEST
+[ ] Do not manually install 2.1.1 before testing the update prompt.
+[ ] Keep an older signed QuietShield build installed.
+[ ] Publish the final APK and final update.json in the later repository step.
+[ ] Open App updates or wait for an automatic check.
+[ ] Confirm 2.1.1 is detected because code 225 is newer.
+[ ] Download completes and SHA-256 verification passes.
+[ ] Android installer updates the app without clearing data.
+[ ] Installed version becomes 2.1.1 code 225.
