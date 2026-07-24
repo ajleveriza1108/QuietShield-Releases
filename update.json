@@ -1,9 +1,1 @@
-{
-    "versionCode":  225,
-    "versionName":  "2.1.1",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/android-v2.1.1/QuietShield-Premium-v2.1.1.apk",
-    "sha256":  "f2228652616a3b454b88bd1c60ef573eb28abcb20ae2511f546c2e02bd8bd96c",
-    "notes":  "QuietShield 2.1.1 adds strict App Connection Lock, midnight and reboot stability repairs, five signed license types, and corrected update and protection diagnostics.",
-    "channel":  "android-phone-tablet",
-    "publishedAt":  "2026-07-23T03:30:41.3955207Z"
-}
+{"versionCode":233,"versionName":"2.3.0","apkUrl":"https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/android-v2.3.0-code233-closed-test/QuietShield-Premium-v2.3.0-code233.apk","sha256":"c52217980c16d23a7819fddf4f6f502cb0bec8bcfd04f56c175f6053e122abf3","notes":"QuietShield 2.3.0 adds secure family and QR activation foundations, Admin Test Lab improvements, personal 21-day Beta Tester access, App Connection Lock improvements, and a VPN lifecycle repair that prevents expected tunnel shutdowns from being reported as failures."}
