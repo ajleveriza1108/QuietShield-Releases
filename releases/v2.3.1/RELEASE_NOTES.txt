@@ -1,0 +1,11 @@
+﻿QuietShield 2.3.1 Final
+
+Version code: 240
+
+Highlights:
+- Final working website Allowlist compatibility.
+- Unrelated advertising and tracker domains remain filtered.
+- QuietShield no longer intercepts general APK installation.
+- Samsung and Android system package installers are preferred.
+- Same-package APKs are trusted only when the signing certificate matches.
+- Existing settings, trial, licensing, and device data are preserved.

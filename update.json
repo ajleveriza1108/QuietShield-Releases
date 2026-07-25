@@ -1,1 +1,7 @@
-{"versionCode":233,"versionName":"2.3.0","apkUrl":"https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/android-v2.3.0-code233-closed-test/QuietShield-Premium-v2.3.0-code233.apk","sha256":"c52217980c16d23a7819fddf4f6f502cb0bec8bcfd04f56c175f6053e122abf3","notes":"QuietShield 2.3.0 adds secure family and QR activation foundations, Admin Test Lab improvements, personal 21-day Beta Tester access, App Connection Lock improvements, and a VPN lifecycle repair that prevents expected tunnel shutdowns from being reported as failures."}
+{
+    "versionCode":  240,
+    "versionName":  "2.3.1",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.3.1/QuietShield-Premium-v2.3.1.apk",
+    "sha256":  "c7dd84b0cdbb5e2f880f28801275903c93a1dbc78859599b77ad21d4d1d21337",
+    "notes":  "QuietShield 2.3.1 Final\r\n\r\nVersion code: 240\r\n\r\nHighlights:\r\n- Final working website Allowlist compatibility.\r\n- Unrelated advertising and tracker domains remain filtered.\r\n- QuietShield no longer intercepts general APK installation.\r\n- Samsung and Android system package installers are preferred.\r\n- Same-package APKs are trusted only when the signing certificate matches.\r\n- Existing settings, trial, licensing, and device data are preserved."
+}
