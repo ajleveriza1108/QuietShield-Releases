@@ -1,0 +1,8 @@
+QUIETSHIELD 2.4.1 PUBLIC RELEASE
+
+[x] Signed APK verified
+[x] Version 2.4.1 code 250 verified
+[x] Permanent signer verified
+[x] Physical-device publication confirmation received
+[x] Public APK URL verified
+[x] update.json published after asset verification

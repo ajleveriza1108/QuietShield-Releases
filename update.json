@@ -1,8 +1,1 @@
-{
-  "versionCode": 246,
-  "versionName": "2.4.0",
-  "apkUrl": "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.4.0/QuietShield-Premium-v2.4.0-Final-Code246.apk",
-  "sha256": "8d697502ae8c225de71b3ea99cf86850d1827d9f163df3af9f4ab62809ec31db",
-  "notes": "QUIETSHIELD 2.4.0 FINAL — CODE 246 R1\n\nHighlights:\n- Adjustable compatibility exclusions with warnings and restoration.\n- Stronger Private Browser filtering and address controls.\n- Thirty-day mobile-data history and real-time connection visuals.\n- Home shortcuts for Mobile Data Usage and App Connection Lock.\n- Recoverable QR camera failures.\n- Per-request web-filter connection failure containment.\n- Working Allowlist, Samsung-safe updater, centered launcher, and correct\n  phone/tablet notification icons preserved.\n\nPackage: com.ajleveriza.quietshield\nVersion: 2.4.0\nVersion code: 246\nRevision: R1\n\n## Customer download\n\nDownload the signed APK asset from this release. The Play AAB, private R8 mapping, keystore, licensing configuration, and administrator security material are not public.\n\nPackage: `com.ajleveriza.quietshield`\n\nVersion: `2.4.0` (`246`)\n\nAPK signer SHA-256: `82eb12f7764e6e6e517bf1c7d1f1097cbe8bd64a6480c88449d886eef5f46c65`\n",
-  "releaseUrl": "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.4.0"
-}
+{"versionCode":250,"versionName":"2.4.1","apkUrl":"https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.4.1/QuietShield-Premium-v2.4.1-Code250-R4.apk","sha256":"4a2ea7bfedd4819451452b311e373dab6ac6f3d04b8932ff42f3707bd1ff6dd9","notes":"QuietShield 2.4.1 keeps Mobile Data Usage available on Wi-Fi, handles Wi-Fi-only devices clearly, removes QuietShield from the normal per-app usage ranking, and improves notification consistency and stability."}

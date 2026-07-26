@@ -1,0 +1,14 @@
+{
+  "versionName": "2.4.1",
+  "versionCode": 250,
+  "packageRevision": "R4",
+  "packageName": "com.ajleveriza.quietshield",
+  "apk": "QuietShield-Premium-v2.4.1-Code250-R4.apk",
+  "apkSha256": "4a2ea7bfedd4819451452b311e373dab6ac6f3d04b8932ff42f3707bd1ff6dd9",
+  "aabSha256": "c8bd7116997213a3f013c7fdff834449e02d4357ab3ba2bd3594250352a28d63",
+  "mappingSha256": "ce6f14630586dbcfeb58a8a7e257af745d1986bdd69721ed93b60445c6545a9f",
+  "signerSha256": "82eb12f7764e6e6e517bf1c7d1f1097cbe8bd64a6480c88449d886eef5f46c65",
+  "releaseTag": "v2.4.1",
+  "apkUrl": "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.4.1/QuietShield-Premium-v2.4.1-Code250-R4.apk",
+  "publishedAt": "2026-07-26T21:44:12.875543Z"
+}
