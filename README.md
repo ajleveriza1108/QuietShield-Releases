@@ -18,11 +18,11 @@ Android TV is not included in this repository workflow yet.
 
 <!-- QUIETSHIELD_LATEST_START -->
 
-## Latest release: QuietShield 2.4.1
+## Latest release: QuietShield 2.4.2
 
-- Version code: `250`
-- Release tag: `v2.4.1`
+- Version code: `251`
+- Release tag: `v2.4.2`
 - Package: `com.ajleveriza.quietshield`
-- Signed customer APK: `QuietShield-Premium-v2.4.1-Code250-R4.apk`
-- Release page: https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.4.1
-- SHA-256 is supplied as a separate release asset.
+- Signed customer APK: `QuietShield-Premium-v2.4.2-Code251-R1.3.apk`
+- AAB: retained for Play Console, not public
+- APK SHA-256: `18173d4d732701a59e775f6898b2b7f7dcd062f50a06474643142c918ed89b1c`

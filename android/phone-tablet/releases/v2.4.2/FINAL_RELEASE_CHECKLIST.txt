@@ -1,0 +1,9 @@
+QUIETSHIELD 2.4.2 CODE 251 R1.3 PUBLICATION
+
+[x] Exact source hashes verified
+[x] APK identity and permanent signer verified
+[x] AAB structure and hashes verified
+[x] Physical-device confirmation received
+[x] Public APK downloaded and SHA-256 verified
+[x] AAB excluded from public GitHub assets
+[x] update.json published after public APK verification
