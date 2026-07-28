@@ -1,0 +1,21 @@
+{
+  "versionName": "2.4.3",
+  "versionCode": 254,
+  "revision": "R1",
+  "packageName": "com.ajleveriza.quietshield",
+  "releaseTag": "v2.4.3",
+  "sourceTag": "source-v2.4.3-code254",
+  "apk": "QuietShield-Premium-v2.4.3-Code254-R1.apk",
+  "aab": "QuietShield-Premium-v2.4.3-Code254-R1.aab",
+  "mapping": "QuietShield-v2.4.3-Code254-R1-mapping.txt",
+  "apkUrl": "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.4.3/QuietShield-Premium-v2.4.3-Code254-R1.apk",
+  "apkSha256": "b7a1a1d70ddaa258f62bf496eb91bef9c5dc67dd25b3e278009e5e67b440d021",
+  "aabSha256": "c448d08b2a5b3a2424aeaa0d60fd3d205c82651d40e2a88d8887a2a5e51e6e0d",
+  "mappingSha256": "ff193083eb24eaf272ac3f510f0a1c7c4925f0ff37e5e26e6e709409aae08ffe",
+  "signerSha256": "82eb12f7764e6e6e517bf1c7d1f1097cbe8bd64a6480c88449d886eef5f46c65",
+  "physicalDeviceTests": "confirmed",
+  "legacyKeysRetained": true,
+  "githubUpdaterRetained": true,
+  "aabPublishedToPublicGitHub": false,
+  "publishedAt": "2026-07-28T10:51:43.473191Z"
+}
