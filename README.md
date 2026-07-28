@@ -24,4 +24,4 @@ Android TV is not included in this repository workflow yet.
 - Release tag: `v2.4.3`
 - Signed APK: `QuietShield-Premium-v2.4.3-Code254-R1.apk`
 - AAB: reserved for Play Console
-- APK SHA-256: `b7a1a1d70ddaa258f62bf496eb91bef9c5dc67dd25b3e278009e5e67b440d021`
+- APK SHA-256: `f228ea1f2997a6c337e9ed6c6e8f94fd63ed7ec98596a816929d0fb4a986e127`

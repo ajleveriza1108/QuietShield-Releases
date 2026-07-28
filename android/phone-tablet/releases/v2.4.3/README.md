@@ -2,7 +2,7 @@
 
 - Version code: `254`
 - Revision: `R1`
-- APK SHA-256: `b7a1a1d70ddaa258f62bf496eb91bef9c5dc67dd25b3e278009e5e67b440d021`
-- AAB SHA-256: `c448d08b2a5b3a2424aeaa0d60fd3d205c82651d40e2a88d8887a2a5e51e6e0d`
+- APK SHA-256: `f228ea1f2997a6c337e9ed6c6e8f94fd63ed7ec98596a816929d0fb4a986e127`
+- AAB SHA-256: `8054704e751e5483443ac997c66a0c2b28de3106876d4916859739a203eb9d7b`
 
 The AAB and R8 mapping are reserved for Play Console.
