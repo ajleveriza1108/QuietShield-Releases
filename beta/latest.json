@@ -1,0 +1,17 @@
+{
+    "versionName":  "2.4.5-beta1",
+    "versionCode":  261,
+    "applicationId":  "com.ajleveriza.quietshield",
+    "channel":  "beta",
+    "prerelease":  true,
+    "releaseTag":  "v2.4.5-beta1-code261",
+    "sourceTag":  "source-v2.4.5-beta1-code261",
+    "sourceCommit":  "23ecefe56079c9a1499ad90a8df5c18c0e255d24",
+    "apkFile":  "QuietShield-Premium-v2.4.5-Beta1-Code261.apk",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.4.5-beta1-code261/QuietShield-Premium-v2.4.5-Beta1-Code261.apk",
+    "apkSha256":  "6ea0dcef31e3250367f995829c583babf7e8ad9b0156a6738d8b0ab504785a4e",
+    "signerSha256":  "82eb12f7764e6e6e517bf1c7d1f1097cbe8bd64a6480c88449d886eef5f46c65",
+    "generatedAt":  "2026-07-29T21:00:00+08:00",
+    "stableUpdateJsonChanged":  false,
+    "aabPubliclyPublished":  false
+}
