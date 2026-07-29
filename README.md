@@ -20,8 +20,8 @@ Android TV is not included in this repository workflow yet.
 
 ## Latest release: QuietShield 2.4.4
 
-- Version code: `258`
+- Version code: `260`
 - Release tag: `v2.4.4`
-- Signed APK: `QuietShield-Premium-v2.4.4-Final-Code258-R1.apk`
+- Signed APK: `QuietShield-Premium-v2.4.4-Final-Code260-R1.apk`
 - AAB: reserved for Play Console
-- APK SHA-256: `9e84401398d264be7c3d6f5472f37ffab0ae644586d0b632240fca9933826509`
+- APK SHA-256: `f3f6a2c41590032a6269164babbbcb8cbc0627ff5c4866c2bb9f0e2903a8ab86`

@@ -1,9 +1,10 @@
 # QuietShield 2.4.4 Final
 
-- Restores App Connection Lock to Home Quick actions beside Data usage.
-- Protection level remains in the More settings section.
-- Newer verified app versions open App Updates directly at launch.
-- Startup timeout, onboarding precedence, and redirect-loop prevention remain.
-- R1.4 readable protection statistics remain.
-- Existing VPN, browser, usage, licensing, family, and admin behavior remain.
-- Discarded Code 255 fullscreen and Code 256 strict-trial changes are absent.
+- Adds a persistent Lock fullscreen control above Private Browser videos.
+- First Back while locked warns; a second Back within two seconds exits fullscreen.
+- Pinch outward fills the fullscreen video; pinch inward returns to normal fitted fullscreen.
+- Fixes fullscreen overlay ordering so Lock and gesture indicators remain visible above the video.
+- Adds bounded recovery for transient Android VPN framework RemoteException failures during VpnService establish.
+- Retains compact notification statistics and Open, Turn Off, and Turn On actions.
+- Retains App Connection Lock, direct App Updates on launch, and R1.4 readable Home statistics.
+- Background playback, downloads, stream extraction, VLC, Media3, and ExoPlayer remain excluded.
