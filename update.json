@@ -1,1 +1,8 @@
-{"versionCode":260,"versionName":"2.4.4","apkUrl":"https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.4.4/QuietShield-Premium-v2.4.4-Final-Code260-R1.apk","sha256":"f3f6a2c41590032a6269164babbbcb8cbc0627ff5c4866c2bb9f0e2903a8ab86","notes":"QuietShield 2.4.4 adds a visible fullscreen lock, pinch-to-fill and pinch-to-fit video gestures, bounded Android VPN framework recovery, compact notification statistics, and protected Turn Off and Turn On actions."}
+{
+    "versionCode":  269,
+    "versionName":  "2.4.5",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.4.5/QuietShield-Premium-v2.4.5-Final-Code269-R1.1.apk",
+    "sha256":  "975b759a4c5174130a388f1567c1c13dc4fbd4655c93a0289e95672b187e55af",
+    "notes":  "QuietShield 2.4.5 adds a compact premium Private Browser, keyboard dismissal after URL entry, direct fullscreen website controls, left-center Lock and PiP controls, HTML5 video PiP actions, active-media Back handling, YouTube ad protection, and silent background update checking.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.4.5"
+}
