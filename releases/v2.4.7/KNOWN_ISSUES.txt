@@ -1,0 +1,21 @@
+QuietShield 2.4.7 Code 272 Final R1 - Known Issues
+======================================================
+
+The application build is released as final Code 272, while Video Settings and
+video functions remain Beta.
+
+Known website/device-dependent limitations:
+
+- Picture-in-Picture may still show a black video surface on some websites,
+  protected media, proprietary players, WebView versions, or device firmware.
+- YouTube's fullscreen settings cogwheel may remain unavailable on some player
+  layouts even when nearby controls such as CC are clickable.
+- Website seeking may be unavailable when the player does not expose a usable
+  HTML5 media interface; QuietShield now fails silently in that case.
+- Brightness and volume gestures may vary by website touch layout and can be
+  restricted to avoid intercepting native player controls.
+- Fullscreen surface exit/restoration remains dependent on the website player
+  and Android WebView implementation.
+
+Core VPN protection, licensing, permanent signer continuity, App Connection
+Lock policies, and verified Direct GitHub update delivery remain release gates.

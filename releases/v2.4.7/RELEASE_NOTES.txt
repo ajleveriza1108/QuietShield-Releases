@@ -1,0 +1,43 @@
+# QuietShield 2.4.7 — Final Code 272 R1
+
+Stable Direct GitHub application release for Android phones and tablets.
+
+## Private Browser
+
+- Supports up to two tabs.
+- Pauses media in the inactive tab to reduce unnecessary RAM, battery, and bandwidth use.
+- A confirmed **Close Privacy Browser** action closes the private session and opens Home/Speed Dials on the next launch.
+- Unexpected process closure can restore the previous private session.
+- Closing the final tab resets its label and view to **🏠 Home**.
+
+## Fullscreen and video
+
+- QuietShield Lock and PiP controls fade after five seconds and return after a screen touch.
+- Left-side vertical gestures adjust temporary window brightness; right-side gestures adjust media volume.
+- Active video can keep the screen awake, with the flag released after playback or fullscreen ends.
+- Fullscreen exit and recovery safeguards are retained.
+- Unsupported player seeking is handled silently rather than displaying an obstruction over the video.
+
+### Video Beta notice
+
+**Video Settings and video functions remain Beta in this final app release.**
+
+Website-specific behavior can still vary by Android WebView, device firmware, protected media, and player implementation. Picture-in-Picture may render black on some players; YouTube’s fullscreen settings cogwheel may remain unavailable on some layouts; seeking and brightness/volume gestures may not work consistently on every website.
+
+## App Connection Lock
+
+- Filters include All, Blocked, Wi-Fi Only, Allowed on mobile data, and Allowed on both.
+- Block all user apps continues to exclude system apps by default.
+- Advanced system apps can be shown and given manual connection rules only after a warning.
+- QuietShield and essential Android components retain safeguards.
+
+## Release identity
+
+- Package: `com.ajleveriza.quietshield`
+- Version: `2.4.7`
+- Version code: `272`
+- Revision: `Final Code 272 R1`
+- Channel: Direct GitHub edition
+- Android TV remains a separate application.
+
+The Play AAB, R8 mapping, keystore, licensing configuration, administrator security material, customer data, and local backups are not public.
