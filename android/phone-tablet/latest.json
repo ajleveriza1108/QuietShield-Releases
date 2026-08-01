@@ -1,9 +1,10 @@
 {
-    "versionCode":  269,
-    "versionName":  "2.4.5",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.4.5/QuietShield-Premium-v2.4.5-Final-Code269-R1.1.apk",
-    "sha256":  "975b759a4c5174130a388f1567c1c13dc4fbd4655c93a0289e95672b187e55af",
-    "notes":  "QuietShield 2.4.5 adds a compact premium Private Browser, keyboard dismissal after URL entry, direct fullscreen website controls, left-center Lock and PiP controls, HTML5 video PiP actions, active-media Back handling, YouTube ad protection, and silent background update checking.",
-    "publishedAt":  "2026-07-30T02:39:02.4109109Z",
-    "channel":  "android-phone-tablet"
+    "versionCode":  271,
+    "versionName":  "2.4.6",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.4.6/QuietShield-Premium-v2.4.6-Final-Code271-R3.3.apk",
+    "sha256":  "bfffa5a13a5d32760ee85cdced02ecb86420999453680d993f0ef0ed4b1eb285",
+    "notes":  "QuietShield 2.4.6 Code 271 adds Private Browser address and speed-dial refinements, session retention, advanced App Connection Lock safeguards, five-second fullscreen control fade, and Direct GitHub update delivery. Some website-specific fullscreen and PiP limitations remain.",
+    "publishedAt":  "2026-08-01T12:14:33.3557041Z",
+    "channel":  "android-phone-tablet",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.4.6"
 }

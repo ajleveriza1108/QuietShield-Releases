@@ -17,11 +17,11 @@ QuietShield-Android repository.
 Android TV is not included in this repository workflow yet.
 
 <!-- QUIETSHIELD_LATEST_START -->
-## Latest release: QuietShield 2.4.5
+## Latest release: QuietShield 2.4.6
 
-- Version code: 265
-- Release tag: 2.4.5
-- Signed APK: $ApkName
-- AAB: reserved for Play Console
-- APK SHA-256: $ApkHash
-<!-- QUIETSHIELD_LATEST_END -->
+- Version code: 271
+- Release tag: v2.4.6
+- Signed APK: QuietShield-Premium-v2.4.6-Final-Code271-R3.3.apk
+- AAB: reserved for Play Console and not part of this Direct GitHub release
+- APK SHA-256: bfffa5a13a5d32760ee85cdced02ecb86420999453680d993f0ef0ed4b1eb285
+- Revision: R3.3

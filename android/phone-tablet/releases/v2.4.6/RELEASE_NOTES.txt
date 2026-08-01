@@ -1,0 +1,37 @@
+# QuietShield 2.4.6 — Final Code 271 R3.3
+
+Stable Direct GitHub release for Android phones and tablets.
+
+## Private Browser
+
+- Dark, distinguishable address-bar presentation.
+- Address actions, local speed dials, bookmark favicons, and retained browser session behavior.
+- Streamlined browser menu without duplicate address and ten-second seek commands.
+
+## Fullscreen video
+
+- QuietShield Lock and Picture-in-Picture controls appear when fullscreen opens.
+- Both controls fade after five seconds of inactivity and return after a screen touch.
+- Double-tap ten-second seeking is restricted to safer video zones so website controls receive direct touches.
+- Existing fit, fullscreen lock, website controls, and media-handling safeguards are retained.
+
+## App Connection Lock
+
+- Advanced system-app visibility and restriction controls.
+- System apps remain excluded by default.
+- Essential and bypass packages retain additional safeguards.
+
+## Release identity
+
+- Package: `com.ajleveriza.quietshield`
+- Version: `2.4.6`
+- Version code: `271`
+- Revision: `R3.3`
+- Channel: Direct GitHub edition
+- Android TV remains a separate application.
+
+## Known limitations
+
+This release is being published with acknowledged remaining bugs. Website-specific fullscreen, settings controls, Picture-in-Picture rendering, captions, and embedded-player behavior can vary by device and player implementation and may require follow-up maintenance.
+
+The Play AAB, R8 mapping, keystore, licensing configuration, administrator security material, and customer data are not public.

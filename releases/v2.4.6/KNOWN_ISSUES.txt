@@ -1,0 +1,15 @@
+QuietShield 2.4.6 Code 271 R3.3 - Known Issues
+====================================================
+
+This final Direct GitHub release is being published with acknowledged
+remaining bugs.
+
+- Some website-specific fullscreen controls may behave differently depending
+  on the player layout and device.
+- Picture-in-Picture rendering and restoration may still vary with WebView,
+  protected media, proprietary players, or device firmware.
+- Embedded website captions, settings controls, and gesture hit regions may
+  need additional site-specific refinement.
+
+Core VPN protection, licensing, permanent signer continuity, and verified
+Direct GitHub update delivery remain release gates.
