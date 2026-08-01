@@ -1,0 +1,51 @@
+# QuietShield 2.4.8 — Final Code 273 R1
+
+Stable Direct GitHub application release for Android phones and tablets.
+
+## Private Browser security and resource use
+
+- Keeps the two-tab limit and pauses media in the inactive tab.
+- Lowers the inactive tab's renderer priority to reduce unnecessary RAM, battery, and background activity.
+- Adds a bounded 2,048-entry clean-decision cache so already-clean browser resources do not repeat expensive checks.
+- Never stores a blocked decision in the clean cache.
+- Rejects mixed HTTP content inside HTTPS pages and retains file-URL cross-origin restrictions.
+
+## Unified fullscreen controls
+
+- Brightness, volume, and ten-second seeking share one gesture coordinator.
+- Website-control hit testing is designed to preserve YouTube settings, captions, menus, sliders, seek controls, and other interactive elements.
+- Fullscreen Lock disables QuietShield gestures only; PiP, Android Back, website controls, and fullscreen exit remain independent.
+- Lock and PiP controls fade smoothly after five seconds and can return after a touch.
+- PiP uses a conservative capability gate and is disabled for player surfaces known to be unsafe.
+
+## Incognito
+
+- Adds Start Incognito and Exit Incognito controls.
+- Incognito starts with clean Private Browser website data.
+- Exiting Incognito deletes Incognito tabs, history, cookies, cache, form data, permissions, HTTP authentication data, and website storage.
+- An interrupted Incognito session is marked for cleanup before a normal page is restored on the next launch.
+- Saved bookmarks and deliberately saved downloads remain.
+
+## Beta-feature notice
+
+**Fullscreen video, PiP, Incognito, and the new low-resource browser protections remain Beta in this final application release.**
+
+Website and device behavior can vary according to Android System WebView, device firmware, protected media, and player implementation. YouTube's fullscreen cogwheel, brightness/volume gestures, ten-second seeking, PiP rendering, and fullscreen surface restoration may still require compatibility repairs. Incognito in this release uses the current Private Browser WebView data store rather than a fully separate AndroidX WebKit profile, so starting Incognito clears the existing Private Browser website data first.
+
+## Existing protection retained
+
+- VPN/DNS blocking and browser request blocking remain enabled.
+- App Connection Lock filters and warned system-app controls are retained.
+- Permanent APK signer verification and the verified Direct GitHub updater remain release gates.
+- Licensing and bounded VPN recovery remain in place.
+
+## Release identity
+
+- Package: `com.ajleveriza.quietshield`
+- Version: `2.4.8`
+- Version code: `273`
+- Revision: `Final Code 273 R1`
+- Channel: Direct GitHub edition
+- Android TV remains a separate application.
+
+The Play AAB, R8 mapping, keystore, licensing configuration, administrator security material, customer data, and local backups are not public.

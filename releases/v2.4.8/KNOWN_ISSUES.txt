@@ -1,0 +1,30 @@
+QuietShield 2.4.8 Code 273 Final R1 - Known Issues
+======================================================
+
+The application build is released as final Code 273, while fullscreen video,
+Picture-in-Picture, Incognito, and the new low-resource browser protections
+remain Beta.
+
+Known website/device-dependent limitations:
+
+- YouTube's fullscreen settings cogwheel may remain unavailable on some player
+  layouts even when nearby controls such as CC are clickable.
+- Brightness and volume gestures may not work on every website or may be limited
+  to avoid intercepting native player controls.
+- Ten-second seeking can be unavailable when a player does not expose a usable
+  media interface or when website controls own the touched area.
+- Picture-in-Picture is deliberately disabled for player surfaces known to be
+  unsafe, but unsupported WebView/firmware combinations may still show black or
+  unstable video and must continue to be treated as Beta.
+- Fullscreen custom-view exit and restoration remain dependent on the website
+  player and Android System WebView implementation.
+- Incognito uses the current Private Browser WebView data store rather than a
+  fully separate AndroidX WebKit profile. Starting Incognito therefore clears
+  existing Private Browser website data before the clean session begins.
+- A background tab may reload after Android reclaims its lower-priority renderer
+  during memory pressure.
+- The clean-decision cache is an optimization only; it does not replace the
+  exact blocking decision or add the planned compressed domain database.
+
+Core VPN protection, licensing, permanent signer continuity, App Connection
+Lock policies, and verified Direct GitHub update delivery remain release gates.
