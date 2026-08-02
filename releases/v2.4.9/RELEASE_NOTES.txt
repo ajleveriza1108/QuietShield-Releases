@@ -1,0 +1,62 @@
+# QuietShield 2.4.9 — Final Code 274 R1
+
+Stable Direct GitHub application release for Android phones and tablets.
+
+## Private Browser startup and resource use
+
+- Shows Home and Speed Dials before filter parsing and interrupted-session restoration.
+- Keeps the two-tab limit and pauses media in the inactive tab.
+- Retains lower background renderer priority and the bounded clean-decision cache.
+- Adds no recurring startup worker or extra persistent browser service.
+
+## Incognito distinction
+
+- Incognito changes the Private Browser toolbar, tab strip, content surface,
+  Home/Speed Dials page, and address field to a distinct dark-gray appearance.
+- The different surface makes it visually clear when Incognito is active.
+- Exiting Incognito still deletes Incognito tabs, history, cookies, cache, form
+  data, permissions, HTTP authentication data, and website storage.
+- Saved bookmarks and deliberately saved downloads remain.
+
+## Picture-in-Picture removed for now
+
+- Picture-in-Picture is temporarily removed from Private Browser.
+- The fullscreen PiP icon and the Float current video menu item are not shown.
+- This avoids offering a feature that was still producing a black video window
+  on website fullscreen surfaces.
+- No second native player or duplicate stream is introduced, preserving RAM,
+  battery, and bandwidth.
+
+## Fullscreen behavior retained
+
+- Brightness, volume, and ten-second seeking continue to use the Code 274
+  fullscreen coordinator.
+- Fullscreen Lock retains smooth five-second fading and guarded two-step Back.
+- Website controls and fullscreen exit remain available while Lock is active.
+
+## Known website-specific limitation
+
+YouTube's fullscreen settings cogwheel may still fail to open on some player
+layouts even when the nearby CC control works. This release does not claim that
+issue is fixed. Other websites' controls may behave normally.
+
+## Existing protection retained
+
+- VPN/DNS blocking and Private Browser request blocking remain enabled.
+- App Connection Lock filters and warned system-app controls remain enabled.
+- Permanent APK signer verification and the verified Direct GitHub updater
+  remain release gates.
+- Licensing and bounded VPN recovery remain in place.
+
+## Release identity
+
+- Package: `com.ajleveriza.quietshield`
+- Version: `2.4.9`
+- Version code: `274`
+- Revision: `Final Code 274 R1`
+- Channel: Direct GitHub edition
+- Public release tag: `v2.4.9`
+- Android TV remains a separate application.
+
+The Play AAB, R8 mapping, keystore, licensing configuration, administrator
+security material, customer data, and local backups are not public.

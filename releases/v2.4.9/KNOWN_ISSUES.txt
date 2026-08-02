@@ -1,0 +1,22 @@
+QuietShield 2.4.9 Code 274 Final R1 - Known Issues
+==================================================
+
+- YouTube's fullscreen settings cogwheel may remain unavailable on some player
+  layouts even when the nearby CC button is clickable.
+- Brightness and volume gestures may still vary by website, Android System
+  WebView version, device firmware, and whether the website owns the touched area.
+- Ten-second seeking can be unavailable when the player does not expose a usable
+  media interface or when the website owns the touched area.
+- Fullscreen custom-view exit and restoration remain website- and WebView-dependent.
+- Incognito uses the current Private Browser WebView data store rather than a
+  separate AndroidX WebKit profile. Starting Incognito therefore clears existing
+  Private Browser website data before the clean session begins.
+- A background tab may reload after Android reclaims its lower-priority renderer
+  during memory pressure.
+
+Picture-in-Picture is not a known active bug in this release because it is
+intentionally removed from Private Browser until a reliable implementation is
+available.
+
+Core VPN protection, licensing, permanent signer continuity, App Connection Lock,
+and verified Direct GitHub update delivery remain release gates.

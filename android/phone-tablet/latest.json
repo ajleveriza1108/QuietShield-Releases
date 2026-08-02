@@ -1,10 +1,10 @@
 {
-    "versionCode":  273,
-    "versionName":  "2.4.8",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.4.8/QuietShield-Premium-v2.4.8-Final-Code273-R1.apk",
-    "sha256":  "e7d554454a7e2ba3acb104e39f4c8dab651cb1443d0ff4a4cb16a1fec2cf25dc",
-    "notes":  "QuietShield 2.4.8 Code 273 adds unified fullscreen touch routing, Incognito cleanup, conservative PiP safety, low-resource two-tab behavior, browser decision caching, and security hardening. Fullscreen video, PiP, Incognito, and the new low-resource browser protections remain Beta and may vary by website, Android WebView, firmware, and device.",
-    "publishedAt":  "2026-08-01T22:51:10.7196701Z",
+    "versionCode":  274,
+    "versionName":  "2.4.9",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.4.9/QuietShield-Premium-v2.4.9-Final-Code274-R1.apk",
+    "sha256":  "73442b323f747d287fc36edd4ea8e9ac9b75f1854a0107c07d59d093d7b2621f",
+    "notes":  "QuietShield 2.4.9 Code 274 improves Private Browser startup and fullscreen reliability, temporarily removes PiP to prevent black video, and gives Incognito a distinct dark-gray appearance. The YouTube fullscreen settings cogwheel remains a known website-specific limitation.",
+    "publishedAt":  "2026-08-02T23:03:38.4556436Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.4.8"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.4.9"
 }

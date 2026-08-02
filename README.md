@@ -17,12 +17,12 @@ QuietShield-Android repository.
 Android TV is not included in this repository workflow yet.
 
 <!-- QUIETSHIELD_LATEST_START -->
-## Latest release: QuietShield 2.4.8
+## Latest release: QuietShield 2.4.9
 
-- Version code: 273
-- Release tag: v2.4.8
-- Signed APK: QuietShield-Premium-v2.4.8-Final-Code273-R1.apk
+- Version code: 274
+- Release tag: v2.4.9
+- Signed APK: QuietShield-Premium-v2.4.9-Final-Code274-R1.apk
 - AAB: reserved for Play Console and not part of this Direct GitHub release
-- APK SHA-256: e7d554454a7e2ba3acb104e39f4c8dab651cb1443d0ff4a4cb16a1fec2cf25dc
-- Revision: Final Code 273 R1
-- Beta-feature status: Fullscreen video, PiP, Incognito, and the new low-resource browser protections remain Beta
+- APK SHA-256: 73442b323f747d287fc36edd4ea8e9ac9b75f1854a0107c07d59d093d7b2621f
+- Revision: Final Code 274 R1
+- Release status: PiP is temporarily removed, Incognito uses a distinct dark-gray surface, and the YouTube fullscreen cogwheel remains a known limitation
