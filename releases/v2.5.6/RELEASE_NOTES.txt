@@ -1,0 +1,55 @@
+QuietShield 2.5.6 (Code 281) Final R1
+=========================================
+
+App Connection Lock schedules
+-----------------------------
+- Schedule a blocking profile by date, time, and recurrence.
+- Supports once, daily, weekdays, and weekends.
+- Supports an optional duration and automatic restoration profile.
+- Offers battery-efficient timing and exact timing where Android permits it.
+- Reapplies the selected profile, reconnects QuietShield, and notifies the user.
+- Restores scheduled alarms after reboot, application replacement, clock changes,
+  and timezone changes.
+- Uses alarm-based execution rather than a continuous polling service.
+
+Mobile Data Watch
+-----------------
+- Reviews Today, 7-day, and 31-day mobile-data usage.
+- Includes user applications and available system, Google, and shared-UID traffic.
+- Requires Android Usage Access before reading other applications' statistics.
+- Records compact scan history and runs a low-frequency daily scan.
+- Suggests review, Wi-Fi-only, or mobile-data restriction with discretion.
+- Never changes App Connection Lock rules automatically.
+- Displays stronger warnings before restricting system or Google components.
+
+App Connection Lock transparency
+--------------------------------
+- Separates an application's Internet access status from its QuietShield
+  protection status.
+- Ordinary allowed applications remain marked QuietShield protected.
+- Blocked applications remain marked QuietShield enforced.
+- Allowed user applications in strict Block all mode are clearly marked
+  Outside strict firewall.
+- Allowing an application never silently adds it to Compatibility exclusions.
+
+Profile editor
+--------------
+- Preserves the User apps search field, cursor, and selection when the digital
+  keyboard opens.
+- Prevents app-list refreshes from moving focus to Profile name.
+- Preserves physical-keyboard and digital-keyboard editing behavior.
+
+Private Browser
+---------------
+- Pull down from the top of a normal webpage to refresh the active tab.
+- Preserves cookies, logins, tabs, history, bookmarks, and view mode.
+- Does not activate on the Home speed dial or during fullscreen video.
+- Can be disabled in Private Browser settings.
+
+Retained behavior
+-----------------
+- PiP remains removed.
+- Smart Skip remains Beta.
+- Incognito data remains isolated from normal-browser data.
+- Administrator Test Lab remains entitlement-gated.
+- The Direct GitHub update path and permanent signing identity are preserved.

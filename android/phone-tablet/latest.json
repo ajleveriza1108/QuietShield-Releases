@@ -1,10 +1,10 @@
 {
-    "versionCode":  280,
-    "versionName":  "2.5.5",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.5.5/QuietShield-Premium-v2.5.5-Final-Code280-R1.apk",
-    "sha256":  "2a6289bf8a9f4614ac76e2441c2450d412fc478aed2ec04c071a47369d8892c0",
-    "notes":  "QuietShield 2.5.5 Code 280 adds a default 1080p/720p video preference for supported players, QuietShield Home tab icons, restored close-data choices, manual browsing-data clearing that preserves bookmarks, isolated Incognito cleanup, a YouTube fullscreen control-priority repair, and generic customer key-entry wording. PiP remains removed and Smart Skip remains Beta.",
-    "publishedAt":  "2026-08-03T09:51:54.1920999Z",
+    "versionCode":  281,
+    "versionName":  "2.5.6",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.5.6/QuietShield-Premium-v2.5.6-Final-Code281-R1.apk",
+    "sha256":  "18a0f297f1159cb9b38ea5e57893276de3eb80e3301b13f20bc8e60525947d8f",
+    "notes":  "QuietShield 2.5.6 Code 281 adds App Connection Lock profile schedules, automatic reconnect notifications, Mobile Data Watch with system and Google discretion warnings, Profile editor keyboard focus retention, transparent protection labels, and Private Browser pull-to-refresh. No data-use suggestion blocks an app automatically. PiP remains removed and Smart Skip remains Beta.",
+    "publishedAt":  "2026-08-03T15:25:18.8756240Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.5.5"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.5.6"
 }

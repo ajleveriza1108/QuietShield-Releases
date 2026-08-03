@@ -1,0 +1,23 @@
+QuietShield 2.5.6 Code 281 Final - Known Limitations
+========================================================
+
+- Exact schedule timing requires Android Alarms & reminders access where the
+  operating system requires it. OEM battery controls may still delay background
+  work.
+- If VPN permission is revoked, QuietShield cannot silently restore protection;
+  it must notify the user.
+- Android can aggregate system or shared-UID traffic. Mobile Data Watch may not
+  always assign every byte to one visible application.
+- Usage Access is required before QuietShield can read other applications'
+  mobile-data statistics.
+- Restricting Google or system applications can affect synchronization,
+  notifications, downloads, licensing, backup, location, or Play services.
+- In strict Block all mode, explicitly allowed user applications route outside
+  the strict firewall and do not receive normal QuietShield VPN filtering during
+  that strict session. The interface discloses this state.
+- Website pull-to-refresh depends on WebView gesture behavior and is intentionally
+  disabled on Browser Home and fullscreen video.
+- YouTube and other website controls can change independently of QuietShield and
+  may require future site-specific maintenance.
+- Smart Skip remains Beta.
+- PiP remains removed.
