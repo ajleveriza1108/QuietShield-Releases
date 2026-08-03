@@ -17,16 +17,16 @@ QuietShield-Android repository.
 Android TV is not included in this repository workflow yet.
 
 <!-- QUIETSHIELD_LATEST_START -->
-## Latest release: QuietShield 2.5.3
+## Latest release: QuietShield 2.5.5
 
-- Version code: 278
-- Release tag: v2.5.3
-- Signed APK: QuietShield-Premium-v2.5.3-Final-Code278-R1.apk
+- Version code: 280
+- Release tag: v2.5.5
+- Signed APK: QuietShield-Premium-v2.5.5-Final-Code280-R1.apk
 - AAB: reserved for Play Console and not part of this Direct GitHub release
-- APK SHA-256: ee6b5831dff21fe16b06586dce7bbd5d4df68dad879c400c038da6ed28230fb6
-- Revision: Final Code 278 R1
-- Update test: Code 277 Beta installations can detect Code 278 through the verified Direct GitHub updater
-- Private Browser: isolated Incognito profile, premium favicon tabs, browser-history Back behavior, and visible ten-second controls
-- Beta status: fullscreen video, Smart Skip, Incognito profile compatibility, and parent/child workflows remain under physical testing
-- Known limitations: YouTube fullscreen settings may remain unresponsive and PiP remains removed
+- APK SHA-256: 2a6289bf8a9f4614ac76e2441c2450d412fc478aed2ec04c071a47369d8892c0
+- Revision: Final Code 280 R1
+- Update path: existing Direct GitHub installations can detect Code 280 through both verified updater files
+- Private Browser: 1080p/720p preference, QuietShield Home icons, restored close-data choices, manual data clearing, isolated Incognito, and browser-history navigation
+- Website compatibility: preferred video quality and YouTube controls depend on player APIs and may require future site-specific maintenance
+- Video controls: Code 280 reserves the YouTube lower control band for the website; PiP remains removed and Smart Skip remains Beta
 - Security: Admin Test Lab remains restricted to administrator entitlement and protected at the activity boundary

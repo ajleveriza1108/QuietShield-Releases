@@ -1,0 +1,8 @@
+QuietShield 2.5.5 Code 280 - Known limitations
+================================================
+
+- Preferred 1080p/720p selection works only when the website player exposes a controllable quality API. Some websites, DRM players, live streams, or adaptive-only players may keep their own selection.
+- YouTube can change its Web player layout or internal API without notice. Code 280 removes QuietShield cancellation from the bottom control band, but physical verification remains required on supported Samsung and Honor devices.
+- Smart Skip remains Beta and depends on available community timestamps.
+- Picture-in-Picture remains removed from Private Browser.
+- Google Play Billing and automatic purchase-token entitlement creation are not included in this release.

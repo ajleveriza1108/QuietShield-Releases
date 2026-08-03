@@ -1,0 +1,37 @@
+QuietShield 2.5.5 (Code 280)
+================================
+
+Private Browser
+---------------
+- Preferred video quality defaults to 1080p. When a supported player does not expose 1080p, QuietShield selects 720p when available, then the best lower exposed level.
+- Adds 1080p, 720p, and Automatic choices under Private Browser settings.
+- Home tabs now show the QuietShield app icon and one plain Home label. The doubled house icon/title is removed.
+- Restores the regular-browser Close Private Browser prompt when closing from the menu or pressing the phone Back action from Browser Home.
+- Adds Clear browsing data now with selectable history, cookies/sign-in sessions, cache, website storage/permissions, form data, and open tabs. Bookmarks and downloads are never selected or removed.
+- Incognito remains isolated from regular browsing and automatically deletes its temporary profile when it ends.
+
+YouTube fullscreen
+------------------
+- Reserves the complete lower player-control band for the website.
+- QuietShield no longer starts brightness or volume from a touch until the website probe positively confirms that the touch is not on a control.
+- This directly addresses slight finger movement on the far-right YouTube cogwheel being converted into a volume gesture and cancelled.
+- Visible ten-second controls remain centered and do not own the YouTube control bar.
+
+Activation wording
+------------------
+- Customer-facing activation pages use Enter your key.
+- Administrator, tester, giveaway, and production/test terminology is removed from ordinary activation instructions.
+- Internal key-type detection, administrator authorization, family roles, and server licensing remain unchanged.
+
+Retained
+--------
+- Two Private Browser tabs.
+- Premium favicons and long-press Back/Forward history.
+- App Connection Lock and parent/child workflows.
+- Smart Skip Beta.
+- Same-device license restoration.
+- PiP remains removed from Private Browser.
+
+Google Play
+-----------
+This release does not add Google Play Billing purchase-token verification. Existing QuietShield keys continue to use the QuietShield license server. Play Billing requires a separately configured Play Console product and backend verification workflow before it should be enabled in a production Play build.

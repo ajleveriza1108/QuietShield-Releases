@@ -1,10 +1,10 @@
 {
-    "versionCode":  278,
-    "versionName":  "2.5.3",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.5.3/QuietShield-Premium-v2.5.3-Final-Code278-R1.apk",
-    "sha256":  "ee6b5831dff21fe16b06586dce7bbd5d4df68dad879c400c038da6ed28230fb6",
-    "notes":  "QuietShield 2.5.3 Code 278 is the higher-version final for the in-app update test from Code 277. It adds isolated Incognito data, premium favicon tabs, browser-history Back navigation, long-press history destinations, and visible ten-second controls while retaining Admin Test Lab gates, Smart Skip Beta, App Connection Lock, no-PiP safety, and same-device activation restoration. YouTube fullscreen settings and other video functions remain known Beta limitations.",
-    "publishedAt":  "2026-08-03T06:54:57.5288668Z",
+    "versionCode":  280,
+    "versionName":  "2.5.5",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.5.5/QuietShield-Premium-v2.5.5-Final-Code280-R1.apk",
+    "sha256":  "2a6289bf8a9f4614ac76e2441c2450d412fc478aed2ec04c071a47369d8892c0",
+    "notes":  "QuietShield 2.5.5 Code 280 adds a default 1080p/720p video preference for supported players, QuietShield Home tab icons, restored close-data choices, manual browsing-data clearing that preserves bookmarks, isolated Incognito cleanup, a YouTube fullscreen control-priority repair, and generic customer key-entry wording. PiP remains removed and Smart Skip remains Beta.",
+    "publishedAt":  "2026-08-03T09:51:54.1920999Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.5.3"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.5.5"
 }
