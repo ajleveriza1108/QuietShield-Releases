@@ -1,0 +1,64 @@
+QuietShield 2.5.1 — Final Code 276 R1
+================================================
+
+Stable Direct GitHub release for Android phones and tablets.
+
+Update-test purpose
+-------------------
+Code 276 is intentionally higher than the manually installed Code 275 Beta.
+After publication, a Code 275 device can use QuietShield's in-app updater to
+detect, download, verify, and install Code 276.
+
+Security
+--------
+- Open Admin Test Lab is hidden from trial and non-administrator users.
+- AdminTestLabActivity independently rejects non-administrator entry.
+- Regular, family, child, tester, giveaway, and trial roles cannot use the
+  administrator Test Lab.
+- Permanent APK signer continuity and APK SHA-256 verification remain required.
+
+Private Browser
+---------------
+- Retains the two-tab low-resource design.
+- Retains locked-fullscreen touch blocking and guarded two-step Back escape.
+- Retains dark-gray Incognito distinction and automatic Incognito cleanup.
+- Retains Smart Skip Beta for supported community timestamps.
+- Adds handling for a terminated WebView renderer. QuietShield rebuilds the
+  affected tab and reloads its last known URL instead of allowing an unhandled
+  renderer termination to close the browser activity.
+- The recovery path does not intentionally clear normal Private Browser cookies
+  or bookmarks.
+
+Known Beta limitations
+----------------------
+- A tester reported one Private Browser termination after approximately ten
+  minutes of YouTube playback with no captured QuietShield app exception. The
+  exact cause was not conclusively reproduced.
+- YouTube's fullscreen settings cogwheel may remain unresponsive even when the
+  adjacent CC control works.
+- Picture-in-Picture remains removed while black-video behavior is unresolved.
+- Smart Skip depends on community timestamps and may be unavailable or
+  inaccurate.
+- A recovered website may reload and the website itself may require sign-in
+  again or lose in-page playback position.
+
+Other retained functions
+------------------------
+- App Connection Lock and connection profiles
+- VPN/DNS blocking and Private Browser resource blocking
+- Same-device activation restoration for supported key types
+- Verified Direct GitHub updater
+- Signed incremental release metadata
+- Android phone and tablet support
+
+Release identity
+----------------
+Package: com.ajleveriza.quietshield
+Version: 2.5.1
+Version code: 276
+Revision: Final Code 276 R1
+Public tag: v2.5.1
+Private tag: android-v2.5.1-code276-final
+
+Google Play AAB, R8 mapping, keystores, licensing configuration, administrator
+security material, and customer data are not included in the public release.

@@ -1,0 +1,32 @@
+QuietShield 2.5.1 Code 276 — Known Issues
+================================================
+
+1. Private Browser prolonged-video termination
+A tester reported a random Private Browser termination after roughly ten
+minutes of YouTube playback. No QuietShield application exception was captured,
+so the exact cause is not proven. Code 276 adds WebView renderer recovery, but
+OEM process termination, low-memory process death, WebView defects, and
+website-specific failures cannot be distinguished from that single report.
+
+2. Website session restoration
+Renderer recovery reloads the affected tab's last known URL and does not
+deliberately clear normal cookies. A website can still expire or reject its own
+session, and in-page playback position may be lost after a renderer or process
+restart.
+
+3. YouTube fullscreen settings
+The YouTube fullscreen settings cogwheel may remain unresponsive on some
+layouts even while the adjacent CC button works.
+
+4. Picture-in-Picture
+Private Browser PiP remains removed because previous implementations produced a
+black video surface on tested devices.
+
+5. Smart Skip Beta
+Smart Skip relies on community timestamps. A skip button may be absent,
+incorrect, or delayed. No microphone recording or continuous speech analysis is
+performed.
+
+6. Fullscreen video Beta
+Brightness, volume, seeking, Lock, and website controls remain dependent on
+Android WebView, OEM firmware, and the website player's own touch behavior.
