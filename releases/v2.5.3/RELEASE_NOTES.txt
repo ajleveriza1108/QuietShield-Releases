@@ -1,0 +1,64 @@
+QuietShield 2.5.3 — Final Code 278 R1
+================================================
+
+Stable Direct GitHub release for Android phones and tablets.
+
+Update-test purpose
+-------------------
+Code 278 is intentionally higher than the manually installed Code 277 Beta.
+After publication, a Code 277 device can use QuietShield's in-app updater to
+detect, download, verify, and install Code 278.
+
+Private Browser
+---------------
+- Uses an isolated Incognito WebView profile when the installed Android System
+  WebView supports multi-profile isolation.
+- Exiting Incognito no longer clears normal Private Browser logins, cookies, or
+  website storage.
+- Refuses to start Incognito on unsupported WebView builds rather than using a
+  destructive shared-data fallback.
+- Adds premium favicon tabs with compact titles and immediate Home reset after
+  closing a website tab.
+- Routes the phone Back button through webpage history, Private Browser Home,
+  and then the QuietShield dashboard.
+- Adds disabled Back/Forward states and long-press history destinations.
+- Replaces fullscreen-wide double-tap seeking with visible Rewind 10 and
+  Forward 10 controls.
+- Retains two-tab low-resource behavior, renderer recovery, and Smart Skip Beta.
+
+Application navigation
+----------------------
+- QuietShield Home requires a guarded second Back press before the visible app
+  interface is sent to the background.
+- Active VPN protection is not intentionally stopped by closing the dashboard.
+
+Administrator, parent, and child testing
+----------------------------------------
+- Admin Test Lab remains hidden from non-administrator roles and independently
+  protected at the activity boundary.
+- The administrator phone can be tested as a parent device.
+- The reset tablet can be tested with a child key and the existing managed-child
+  setup flow.
+- Same-device key restoration remains available for supported key types.
+
+Known Beta limitations
+----------------------
+- YouTube's fullscreen settings cogwheel may remain unresponsive even when the
+  adjacent CC control works.
+- Picture-in-Picture remains removed while black-video behavior is unresolved.
+- Smart Skip depends on community timestamps and may be absent or inaccurate.
+- Fullscreen video controls remain dependent on Android WebView, OEM firmware,
+  and the website player's own behavior.
+- Parent/child workflows require physical verification on the intended devices.
+
+Release identity
+----------------
+Package: com.ajleveriza.quietshield
+Version: 2.5.3
+Version code: 278
+Revision: Final Code 278 R1
+Public tag: v2.5.3
+Private tag: android-v2.5.3-code278-final
+
+Google Play AAB, R8 mapping, keystores, licensing configuration, administrator
+security material, and customer data are not included in the public release.

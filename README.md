@@ -17,15 +17,16 @@ QuietShield-Android repository.
 Android TV is not included in this repository workflow yet.
 
 <!-- QUIETSHIELD_LATEST_START -->
-## Latest release: QuietShield 2.5.1
+## Latest release: QuietShield 2.5.3
 
-- Version code: 276
-- Release tag: v2.5.1
-- Signed APK: QuietShield-Premium-v2.5.1-Final-Code276-R1.apk
+- Version code: 278
+- Release tag: v2.5.3
+- Signed APK: QuietShield-Premium-v2.5.3-Final-Code278-R1.apk
 - AAB: reserved for Play Console and not part of this Direct GitHub release
-- APK SHA-256: 2317dd30c0b1957f029547c371b5dff98b6168b244d2118d3415bd774f2e7e8b
-- Revision: Final Code 276 R1
-- Update test: Code 275 Beta installations can detect Code 276 through the verified Direct GitHub updater
-- Beta status: Private Browser fullscreen video and Smart Skip remain Beta
-- Known limitations: YouTube fullscreen settings may remain unresponsive; PiP remains removed; a rare prolonged-video termination was reported and is not conclusively reproduced
+- APK SHA-256: ee6b5831dff21fe16b06586dce7bbd5d4df68dad879c400c038da6ed28230fb6
+- Revision: Final Code 278 R1
+- Update test: Code 277 Beta installations can detect Code 278 through the verified Direct GitHub updater
+- Private Browser: isolated Incognito profile, premium favicon tabs, browser-history Back behavior, and visible ten-second controls
+- Beta status: fullscreen video, Smart Skip, Incognito profile compatibility, and parent/child workflows remain under physical testing
+- Known limitations: YouTube fullscreen settings may remain unresponsive and PiP remains removed
 - Security: Admin Test Lab remains restricted to administrator entitlement and protected at the activity boundary

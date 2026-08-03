@@ -1,8 +1,8 @@
 {
-    "versionCode":  276,
-    "versionName":  "2.5.1",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.5.1/QuietShield-Premium-v2.5.1-Final-Code276-R1.apk",
-    "sha256":  "2317dd30c0b1957f029547c371b5dff98b6168b244d2118d3415bd774f2e7e8b",
-    "notes":  "QuietShield 2.5.1 Code 276 is the higher-version final for the in-app update test from Code 275. It retains locked fullscreen, Smart Skip Beta, Admin Test Lab authorization gates, no-PiP safety, dark-gray Incognito, and adds recovery for a terminated WebView video renderer. YouTube fullscreen settings and rare prolonged-video termination remain known Beta limitations.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.5.1"
+    "versionCode":  278,
+    "versionName":  "2.5.3",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.5.3/QuietShield-Premium-v2.5.3-Final-Code278-R1.apk",
+    "sha256":  "ee6b5831dff21fe16b06586dce7bbd5d4df68dad879c400c038da6ed28230fb6",
+    "notes":  "QuietShield 2.5.3 Code 278 is the higher-version final for the in-app update test from Code 277. It adds isolated Incognito data, premium favicon tabs, browser-history Back navigation, long-press history destinations, and visible ten-second controls while retaining Admin Test Lab gates, Smart Skip Beta, App Connection Lock, no-PiP safety, and same-device activation restoration. YouTube fullscreen settings and other video functions remain known Beta limitations.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.5.3"
 }
