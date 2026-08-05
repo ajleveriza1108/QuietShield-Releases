@@ -1,8 +1,8 @@
 {
-    "versionCode":  281,
-    "versionName":  "2.5.6",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.5.6/QuietShield-Premium-v2.5.6-Final-Code281-R1.apk",
-    "sha256":  "18a0f297f1159cb9b38ea5e57893276de3eb80e3301b13f20bc8e60525947d8f",
-    "notes":  "QuietShield 2.5.6 Code 281 adds App Connection Lock profile schedules, automatic reconnect notifications, Mobile Data Watch with system and Google discretion warnings, Profile editor keyboard focus retention, transparent protection labels, and Private Browser pull-to-refresh. No data-use suggestion blocks an app automatically. PiP remains removed and Smart Skip remains Beta.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.5.6"
+    "versionCode":  283,
+    "versionName":  "2.5.8",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.5.8/QuietShield-Premium-v2.5.8-Final-Code283-R1.apk",
+    "sha256":  "817990ae3237281cca36a0c23af5b22593d120e7475af5ba5867a5c6db6e1325",
+    "notes":  "QuietShield 2.5.8 Code 283 Final R1 adds quiet daily Watch notifications, cellular-only Mobile Data Watch with activation baseline, resilient YouTube Skip Ad with acceleration fallback, fullscreen side double-tap ten-second seeking, and corrected Today/7 days/31 days selection highlighting. App Connection Lock schedules, Private Browser state, licensing, and the permanent signer are preserved.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.5.8"
 }
