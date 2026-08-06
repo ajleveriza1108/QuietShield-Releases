@@ -1,8 +1,8 @@
 {
-    "versionCode":  283,
-    "versionName":  "2.5.8",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.5.8/QuietShield-Premium-v2.5.8-Final-Code283-R1.apk",
-    "sha256":  "817990ae3237281cca36a0c23af5b22593d120e7475af5ba5867a5c6db6e1325",
-    "notes":  "QuietShield 2.5.8 Code 283 Final R1 adds quiet daily Watch notifications, cellular-only Mobile Data Watch with activation baseline, resilient YouTube Skip Ad with acceleration fallback, fullscreen side double-tap ten-second seeking, and corrected Today/7 days/31 days selection highlighting. App Connection Lock schedules, Private Browser state, licensing, and the permanent signer are preserved.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.5.8"
+    "versionCode":  285,
+    "versionName":  "2.6.0",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.6.0/QuietShield-Premium-v2.6.0-Final-Code285-R1.apk",
+    "sha256":  "7a0b8ca109f03742ab2414d27f6c18b45e605dd3da97a13729526eee64cade8d",
+    "notes":  "QuietShield 2.6.0 Code 285 Final R1 adds the Parent Command Center, QuietShield Child Home, parent-authenticated dashboard access, domain-only website requests, broader Private Browser ten-second seeking, system auto-rotate following, best-effort landscape fullscreen, and 62-day normal history.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.6.0"
 }
