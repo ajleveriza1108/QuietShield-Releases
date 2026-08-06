@@ -1,8 +1,8 @@
 {
     "versionCode":  285,
     "versionName":  "2.6.0",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.6.0/QuietShield-Premium-v2.6.0-Final-Code285-R1.apk",
-    "sha256":  "7a0b8ca109f03742ab2414d27f6c18b45e605dd3da97a13729526eee64cade8d",
-    "notes":  "QuietShield 2.6.0 Code 285 Final R1 adds the Parent Command Center, QuietShield Child Home, parent-authenticated dashboard access, domain-only website requests, broader Private Browser ten-second seeking, system auto-rotate following, best-effort landscape fullscreen, and 62-day normal history.",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.6.0/QuietShield-Premium-v2.6.0-Final-Code285-R1.3.apk",
+    "sha256":  "5083376319d8727861583dab004414023628840aa4f048637bc22f6ce460d25a",
+    "notes":  "QuietShield 2.6.0 Code 285 Final R1.3 Critical Repair adds true locked-landscape fullscreen with default fill presentation, restores the active protection notification after Android dismissal or Clear all, uses a channel-compatible silent foreground notification, and includes the Parent Command Center, QuietShield Child Home, broader ten-second seeking, auto-rotate following, and 62-day normal history.",
     "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.6.0"
 }
