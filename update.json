@@ -1,8 +1,8 @@
 {
     "versionCode":  285,
     "versionName":  "2.6.0",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.6.0/QuietShield-Premium-v2.6.0-Final-Code285-R1.3.apk",
-    "sha256":  "5083376319d8727861583dab004414023628840aa4f048637bc22f6ce460d25a",
-    "notes":  "QuietShield 2.6.0 Code 285 Final R1.3 Critical Repair adds true locked-landscape fullscreen with default fill presentation, restores the active protection notification after Android dismissal or Clear all, uses a channel-compatible silent foreground notification, and includes the Parent Command Center, QuietShield Child Home, broader ten-second seeking, auto-rotate following, and 62-day normal history.",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.6.0/QuietShield-Premium-v2.6.0-Final-Code285-R1.5.apk",
+    "sha256":  "2c73701647c15537a658e01919d26da6c3950d02dd98f0dd5d14c485449cc6ea",
+    "notes":  "QuietShield 2.6.0 Code 285 Final R1.5 Universal Video Cover adds true locked-landscape fullscreen with default fill presentation, adds universal edge-to-edge cover playback for every supported fullscreen website video, restores the active protection notification after Android dismissal or Clear all, uses a channel-compatible silent foreground notification, and includes the Parent Command Center, QuietShield Child Home, broader ten-second seeking, auto-rotate following, and 62-day normal history.",
     "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.6.0"
 }
