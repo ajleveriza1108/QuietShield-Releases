@@ -2,7 +2,7 @@
     "versionCode":  290,
     "versionName":  "2.6.4",
     "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.6.4/QuietShield-Premium-v2.6.4-Final-Code290.apk",
-    "sha256":  "ab66add695d08cf8d97fdac01ed1762285886b6b5b1e3565caa4b55fa45395d8",
+    "sha256":  "e8a3ba8c23532f96499efddb78affe3d788bb33b01e2ea3b25ef473640905d6b",
     "notes":  "QuietShield 2.6.4 Code 290 Final fixes the tablet layout compile regression, adds the repaired Administrator Sandbox Family Dashboard with existing child phone/tablet detection, retains short QR/manual pairing and immediate Managed Child routing, and delivers the compact adaptive tablet Home/Settings GUI while preserving all protection features.",
     "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.6.4"
 }
