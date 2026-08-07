@@ -2,9 +2,9 @@
     "versionCode":  289,
     "versionName":  "2.6.3",
     "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.6.3/QuietShield-Premium-v2.6.3-Final-Code289.apk",
-    "sha256":  "78fa8f0983962855d811ff772113ffa2827bb3de43649ec4c00a3277e422f36a",
+    "sha256":  "60a41e748ac0488f1d1da1d261e05add940ebc0e0800052e32c2a05f469f36b8",
     "notes":  "QuietShield 2.6.3 Code 289 Final adds fixed phone navigation and a tablet rail, descriptive settings rows, ordered Quick Access, an address-first Private Browser with fixed bottom actions and grouped bottom sheets, adaptive Parent/Child tablet layouts, and retains universal video seeking, Android 16 VPN resilience, notification/boot recovery, App Connection Lock, Child Safety, and the existing RAM/battery efficiency work without adding continuous GUI background processing.",
-    "publishedAt":  "2026-08-07T06:56:22.2894265Z",
+    "publishedAt":  "2026-08-07T07:18:35.5231487Z",
     "channel":  "android-phone-tablet",
     "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.6.3"
 }
