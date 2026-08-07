@@ -1,10 +1,10 @@
 {
-    "versionCode":  293,
-    "versionName":  "2.6.7",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.6.7/QuietShield-Premium-v2.6.7-Final-Code293.apk",
-    "sha256":  "73830c174d3b7df53106aae6229a3ac56dedac6be1aad51ec546e5e98f21c977",
-    "notes":  "QuietShield 2.6.7 Code 293 Final adds reusable Family release plus a clearer Parent Natural-Language Rules editor with Interpret/Confirm checks and automatic child-policy delivery status. Released devices free their Family seat without permanent revocation, while true revoked remains an explicit security denial.",
-    "publishedAt":  "2026-08-07T15:03:59.4166083Z",
+    "versionCode":  294,
+    "versionName":  "2.6.8",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.6.8/QuietShield-Premium-v2.6.8-Final-Code294.apk",
+    "sha256":  "c7f46742780e8733047583f2634057b89a93dfe1d083681b28e8c9a1c8c92c31",
+    "notes":  "QuietShield 2.6.8 Code 294 Final: fixes detached-dialog crashes, hardens Parent/UI responsiveness, limits large history rendering, and adds privacy-safe UI-stall diagnostics while retaining Natural Rules and automatic child sync.",
+    "publishedAt":  "2026-08-07T23:45:56.7038657Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.6.7"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.6.8"
 }
