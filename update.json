@@ -1,8 +1,8 @@
 {
-    "versionCode":  285,
-    "versionName":  "2.6.0",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.6.0/QuietShield-Premium-v2.6.0-Final-Code285-R1.6.apk",
-    "sha256":  "0ba46088ac39d83477e45c74953d6b35910e6b5a14d0060c146084d0fc2ce041",
-    "notes":  "QuietShield 2.6.0 Code 285 Final R1.6 Landscape Entry Repair adds true locked-landscape fullscreen with default fill presentation, forces fullscreen into landscape even when entered while the phone is upright, and adds universal edge-to-edge cover playback for every supported fullscreen website video, restores the active protection notification after Android dismissal or Clear all, uses a channel-compatible silent foreground notification, and includes the Parent Command Center, QuietShield Child Home, broader ten-second seeking, auto-rotate following, and 62-day normal history.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.6.0"
+    "versionCode":  287,
+    "versionName":  "2.6.2",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.6.2/QuietShield-Premium-v2.6.2-Final-Code287.apk",
+    "sha256":  "4f7953328319e2994f85f30e0855e231cbe7553835d34df00825a92285b5349e",
+    "notes":  "QuietShield 2.6.2 Code 287 Final improves RAM/battery efficiency without disabling protection, adds the modern minimal Control Center and editable Quick Access, uses blue highlights only for real App Updates and Block-all App Connection Lock states, improves Parent/Child and tablet UX, adds Android 16 VPN-manager resilience, retains notification and boot recovery, and expands Private Browser fullscreen video gestures with exact +/-10 second seeking on supported direct and cross-origin HTML5 players.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.6.2"
 }
