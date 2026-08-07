@@ -1,8 +1,8 @@
 {
-    "versionCode":  289,
-    "versionName":  "2.6.3",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.6.3/QuietShield-Premium-v2.6.3-Final-Code289.apk",
-    "sha256":  "54e111253c4f1f9a04d1b1e0aa477c4c2700ce538878767448c0eccce4c8f577",
-    "notes":  "QuietShield 2.6.3 Code 289 Final R1.5 adds short Parent/Child pairing QR/manual-code fallback, fixed phone navigation and a tablet rail, descriptive settings rows, ordered Quick Access, an address-first Private Browser with fixed bottom actions and grouped bottom sheets, adaptive Parent/Child tablet layouts, and retains universal video seeking, Android 16 VPN resilience, notification/boot recovery, App Connection Lock, Child Safety, and the existing RAM/battery efficiency work without adding continuous GUI background processing.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.6.3"
+    "versionCode":  290,
+    "versionName":  "2.6.4",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.6.4/QuietShield-Premium-v2.6.4-Final-Code290.apk",
+    "sha256":  "ab66add695d08cf8d97fdac01ed1762285886b6b5b1e3565caa4b55fa45395d8",
+    "notes":  "QuietShield 2.6.4 Code 290 Final fixes the tablet layout compile regression, adds the repaired Administrator Sandbox Family Dashboard with existing child phone/tablet detection, retains short QR/manual pairing and immediate Managed Child routing, and delivers the compact adaptive tablet Home/Settings GUI while preserving all protection features.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.6.4"
 }
