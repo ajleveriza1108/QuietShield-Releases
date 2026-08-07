@@ -1,8 +1,8 @@
 {
-    "versionCode":  287,
-    "versionName":  "2.6.2",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.6.2/QuietShield-Premium-v2.6.2-Final-Code287.apk",
-    "sha256":  "4f7953328319e2994f85f30e0855e231cbe7553835d34df00825a92285b5349e",
-    "notes":  "QuietShield 2.6.2 Code 287 Final improves RAM/battery efficiency without disabling protection, adds the modern minimal Control Center and editable Quick Access, uses blue highlights only for real App Updates and Block-all App Connection Lock states, improves Parent/Child and tablet UX, adds Android 16 VPN-manager resilience, retains notification and boot recovery, and expands Private Browser fullscreen video gestures with exact +/-10 second seeking on supported direct and cross-origin HTML5 players.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.6.2"
+    "versionCode":  289,
+    "versionName":  "2.6.3",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.6.3/QuietShield-Premium-v2.6.3-Final-Code289.apk",
+    "sha256":  "78fa8f0983962855d811ff772113ffa2827bb3de43649ec4c00a3277e422f36a",
+    "notes":  "QuietShield 2.6.3 Code 289 Final adds fixed phone navigation and a tablet rail, descriptive settings rows, ordered Quick Access, an address-first Private Browser with fixed bottom actions and grouped bottom sheets, adaptive Parent/Child tablet layouts, and retains universal video seeking, Android 16 VPN resilience, notification/boot recovery, App Connection Lock, Child Safety, and the existing RAM/battery efficiency work without adding continuous GUI background processing.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.6.3"
 }
