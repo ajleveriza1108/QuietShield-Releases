@@ -1,10 +1,10 @@
 {
-    "versionCode":  297,
-    "versionName":  "2.7.1",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.1/QuietShield-Premium-v2.7.1-Final-Code297.apk",
-    "sha256":  "56bfaea6f08b4ad3b412875a5021ae5237c19da56064e7ea43d09d2f243e1b62",
-    "notes":  "QuietShield 2.7.1 Code 297 Final: fixes stale Parent Child Protection false positives, keeps real current-policy failures critical, and replaces raw Family protection tokens with readable status.",
-    "publishedAt":  "2026-08-08T02:51:30.4087116Z",
+    "versionCode":  298,
+    "versionName":  "2.7.2",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.2/QuietShield-Premium-v2.7.2-Final-Code298.apk",
+    "sha256":  "0363542a89f8a5bdab3362d4ab425613226d90756c6910ca3de5328e180d4e87",
+    "notes":  "QuietShield 2.7.2 Code 298 Final: Android 16 VPN manager establish recovery hardening, bounded fallback retries, and quieter transient framework-error reporting.",
+    "publishedAt":  "2026-08-08T06:13:28.2575668Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.1"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.2"
 }
