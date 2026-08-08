@@ -1,8 +1,8 @@
 {
-    "versionCode":  299,
-    "versionName":  "2.7.3",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.3/QuietShield-Premium-v2.7.3-Final-Code299.apk",
-    "sha256":  "e8a82de94f5ed4234df9d326f698e636d3cc446c6f62c16ec7341ba846ba541c",
-    "notes":  "QuietShield 2.7.3 Code 299 Final: settings-restore crash repair, Android VPN recovery hardening, and fullscreen Fit/pinch fixes.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.3"
+    "versionCode":  300,
+    "versionName":  "2.7.4",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.4/QuietShield-Premium-v2.7.4-Final-Code300.apk",
+    "sha256":  "ee344ba83c456de1660c64d027e535085051883458dbd30b1bac6e5be7d01f43",
+    "notes":  "QuietShield 2.7.4 Code 300 Final: restore-safe maintenance release with settings-recovery, VPN-recovery, Parent-warning, and fullscreen Fit/pinch fixes.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.4"
 }
