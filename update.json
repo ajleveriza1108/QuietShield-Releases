@@ -1,8 +1,8 @@
 {
-    "versionCode":  303,
-    "versionName":  "2.7.7",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.7/QuietShield-Premium-v2.7.7-Final-Code303.apk",
-    "sha256":  "a19a0c5d753f90168c1170b3cb91c2d92e7838aaefd713af71b67d67b31d45b8",
-    "notes":  "QuietShield 2.7.7 Code 303 Final: modern GUI icon hierarchy cleanup with text-only section labels and distinct context icons, retaining all Code302 protection and Private Browser fixes.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.7"
+    "versionCode":  304,
+    "versionName":  "2.7.8",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.8/QuietShield-Premium-v2.7.8-Final-Code304.apk",
+    "sha256":  "c9374e2819cec9c74063199baaf39de59efc4e41bbda0c7677c31026b63d7175",
+    "notes":  "QuietShield 2.7.8 Code 304 Final: Private Browser refresh control and targeted YouTube fullscreen settings-cogwheel recovery, retaining all Code303 protections and GUI improvements.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.8"
 }
