@@ -1,8 +1,8 @@
 {
-    "versionCode":  313,
-    "versionName":  "2.7.17",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.17/QuietShield-Premium-v2.7.17-Final-Code313.apk",
-    "sha256":  "51756ae184f428154265b512aa64f213e9535144628703198b7225462deec3fe",
-    "notes":  "QuietShield 2.7.17 Code 313 Final: Protection Center GUI with Home/Apps/Browser/Activity/Settings navigation, dedicated Browser hub, and Activity \u0026 Insights; Code312 and Code311 protections retained.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.17"
+    "versionCode":  314,
+    "versionName":  "2.7.18",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.18/QuietShield-Premium-v2.7.18-Final-Code314.apk",
+    "sha256":  "f0526c22b0e78affe98a3135a6a7e2120db3cf01b00b2548cb7fa466bbba7da2",
+    "notes":  "QuietShield 2.7.18 Code 314 Final: GUI stabilization with icon-only phone navigation, distinct Browser hub actions, separate site privacy manager, and persistent update log; Code313/312/311 protections retained.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.18"
 }
