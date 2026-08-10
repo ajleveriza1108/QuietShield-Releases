@@ -1,10 +1,10 @@
 {
-    "versionCode":  307,
-    "versionName":  "2.7.11",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.11/QuietShield-Premium-v2.7.11-Final-Code307.apk",
-    "sha256":  "7aa4cbc50702671028ccd603700ca1d17604457541aae4a39ce50749dae91631",
-    "notes":  "QuietShield 2.7.11 Code 307 Final: native YouTube fullscreen baseline with QuietShield fullscreen overlays and gesture enhancements removed from YouTube, retaining all earlier protection and GUI improvements.",
-    "publishedAt":  "2026-08-10T03:48:40.4330647Z",
+    "versionCode":  308,
+    "versionName":  "2.7.12",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.12/QuietShield-Premium-v2.7.12-Final-Code308.apk",
+    "sha256":  "1fde6018101da177a20a951f68f4a747ea71b39fb75ce0a6fde620899c9c73a3",
+    "notes":  "QuietShield 2.7.12 Code 308 Final: App Connection profile backup, stable profile search focus, restored fullscreen tools, and sensor-landscape rotation.",
+    "publishedAt":  "2026-08-10T07:03:06.4808637Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.11"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.12"
 }
