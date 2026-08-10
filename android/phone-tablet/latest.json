@@ -1,10 +1,10 @@
 {
-    "versionCode":  304,
-    "versionName":  "2.7.8",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.8/QuietShield-Premium-v2.7.8-Final-Code304.apk",
-    "sha256":  "c9374e2819cec9c74063199baaf39de59efc4e41bbda0c7677c31026b63d7175",
-    "notes":  "QuietShield 2.7.8 Code 304 Final: Private Browser refresh control and targeted YouTube fullscreen settings-cogwheel recovery, retaining all Code303 protections and GUI improvements.",
-    "publishedAt":  "2026-08-10T02:29:54.8243323Z",
+    "versionCode":  305,
+    "versionName":  "2.7.9",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.9/QuietShield-Premium-v2.7.9-Final-Code305.apk",
+    "sha256":  "3acc6b20fc5e37095cdbfefa13351b1e4a757b4460aca493ad4e2b3c745152da",
+    "notes":  "QuietShield 2.7.9 Code 305 Final: robust YouTube fullscreen settings-cogwheel rectangle recovery, retaining the Code304 refresh control and all earlier protection and GUI improvements.",
+    "publishedAt":  "2026-08-10T02:57:33.1362733Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.8"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.9"
 }
