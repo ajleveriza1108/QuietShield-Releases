@@ -1,8 +1,8 @@
 {
-    "versionCode":  302,
-    "versionName":  "2.7.6",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.6/QuietShield-Premium-v2.7.6-Final-Code302.apk",
-    "sha256":  "7194397d3048d59eef51c91f43977578393d99fbbdfb83317f9b143d994450c5",
-    "notes":  "QuietShield 2.7.6 Code 302 Final: modern lightweight GUI with consistent icons across core QuietShield screens, retaining all Code301 protection and backup improvements.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.6"
+    "versionCode":  303,
+    "versionName":  "2.7.7",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.7/QuietShield-Premium-v2.7.7-Final-Code303.apk",
+    "sha256":  "a19a0c5d753f90168c1170b3cb91c2d92e7838aaefd713af71b67d67b31d45b8",
+    "notes":  "QuietShield 2.7.7 Code 303 Final: modern GUI icon hierarchy cleanup with text-only section labels and distinct context icons, retaining all Code302 protection and Private Browser fixes.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.7"
 }
