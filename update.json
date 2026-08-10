@@ -1,8 +1,8 @@
 {
-    "versionCode":  306,
-    "versionName":  "2.7.10",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.10/QuietShield-Premium-v2.7.10-Final-Code306.apk",
-    "sha256":  "155312a9d861145f30e085a0282bd7008a6ad262543576b2de59cf852eb5fbbc",
-    "notes":  "QuietShield 2.7.10 Code 306 Final: YouTube fullscreen hard website-control passthrough, retaining the refresh toolbar and all earlier protection, GUI, backup and Family improvements.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.10"
+    "versionCode":  307,
+    "versionName":  "2.7.11",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.11/QuietShield-Premium-v2.7.11-Final-Code307.apk",
+    "sha256":  "7aa4cbc50702671028ccd603700ca1d17604457541aae4a39ce50749dae91631",
+    "notes":  "QuietShield 2.7.11 Code 307 Final: native YouTube fullscreen baseline with QuietShield fullscreen overlays and gesture enhancements removed from YouTube, retaining all earlier protection and GUI improvements.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.11"
 }
