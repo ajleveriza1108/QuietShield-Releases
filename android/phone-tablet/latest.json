@@ -1,10 +1,10 @@
 {
-    "versionCode":  308,
-    "versionName":  "2.7.12",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.12/QuietShield-Premium-v2.7.12-Final-Code308.apk",
-    "sha256":  "1fde6018101da177a20a951f68f4a747ea71b39fb75ce0a6fde620899c9c73a3",
-    "notes":  "QuietShield 2.7.12 Code 308 Final: App Connection profile backup, stable profile search focus, restored fullscreen tools, and sensor-landscape rotation.",
-    "publishedAt":  "2026-08-10T07:03:06.4808637Z",
+    "versionCode":  310,
+    "versionName":  "2.7.14",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.14/QuietShield-Premium-v2.7.14-Final-Code310.apk",
+    "sha256":  "4f3e60897df9f13a909a81106bce36da3673464ff9bd7bded128d94aff4f9555",
+    "notes":  "QuietShield 2.7.14 Code 310 Final: signed Private Browser Shields, selective site cleanup, media keep-awake, YouTube sticky-chip repair, and smooth video-control fade.",
+    "publishedAt":  "2026-08-10T08:59:06.0913937Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.12"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.14"
 }
