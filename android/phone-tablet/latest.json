@@ -1,10 +1,10 @@
 {
-    "versionCode":  301,
-    "versionName":  "2.7.5",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.5/QuietShield-Premium-v2.7.5-Final-Code301.apk",
-    "sha256":  "374948afa44a318da724f8ba9b5647ab705409b8df89899631cf39565bd13972",
-    "notes":  "QuietShield 2.7.5 Code 301 Final: buyer UX, Internet Rules, Quick Access, scoped search, Speed Dial, Mobile Data Watch notification, and restore-safe backup improvements.",
-    "publishedAt":  "2026-08-09T23:59:07.0037156Z",
+    "versionCode":  302,
+    "versionName":  "2.7.6",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.6/QuietShield-Premium-v2.7.6-Final-Code302.apk",
+    "sha256":  "7194397d3048d59eef51c91f43977578393d99fbbdfb83317f9b143d994450c5",
+    "notes":  "QuietShield 2.7.6 Code 302 Final: modern lightweight GUI with consistent icons across core QuietShield screens, retaining all Code301 protection and backup improvements.",
+    "publishedAt":  "2026-08-10T00:39:12.3115842Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.5"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.6"
 }
