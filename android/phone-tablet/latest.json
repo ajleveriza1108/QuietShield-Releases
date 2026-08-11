@@ -1,10 +1,10 @@
 {
-    "versionCode":  316,
-    "versionName":  "2.7.20",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.20/QuietShield-Premium-v2.7.20-Final-Code316.apk",
-    "sha256":  "aa55b637ea32d6f1044f137b8309ac02a0374e767e87a0fdc39eb388dfc71171",
-    "notes":  "QuietShield 2.7.20 Code 316 Final: polished Whats New and Update Log presentation, explicit App Connection Lock system-app backup, and dedicated Compatibility settings backup; Code315/314/313/312/311 protections retained.",
-    "publishedAt":  "2026-08-10T23:14:26.3216030Z",
+    "versionCode":  317,
+    "versionName":  "2.7.21",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.21/QuietShield-Premium-v2.7.21-Final-Code317.apk",
+    "sha256":  "928da7f0fc5335a4316b34a173cd0cb56b4b5fcb904ca1487f4c62e837fecf68",
+    "notes":  "QuietShield 2.7.21 Code 316 Final: polished Whats New and Update Log presentation, explicit App Connection Lock system-app backup, and dedicated Compatibility settings backup; Code315/314/313/312/311 protections retained.",
+    "publishedAt":  "2026-08-11T04:19:27.2856571Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.20"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.21"
 }
