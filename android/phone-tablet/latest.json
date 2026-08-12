@@ -1,10 +1,10 @@
 {
-    "versionCode":  321,
-    "versionName":  "2.8.0",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.8.0/QuietShield-Premium-v2.8.0-Final-Code321.apk",
-    "sha256":  "32f009c9c3f7ebb113b34ff9f8502a40793f5aa07ae21ff8e343561d63fc210c",
-    "notes":  "QuietShield 2.8.0 Code321 Final: Core Resilience Suite combines boot/ANR recovery, VPN runtime health, event-driven network warnings, differential app-change review, protection self-test, startup safe mode and signed-endpoint hardening while retaining existing protection semantics.",
-    "publishedAt":  "2026-08-12T05:11:58.5674665Z",
+    "versionCode":  322,
+    "versionName":  "2.8.1",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.8.1/QuietShield-Premium-v2.8.1-Final-Code322.apk",
+    "sha256":  "395ddf52a3f2ebfeca02fa914807b41a616683fef3e378649c8c92ab5cf3d034",
+    "notes":  "QuietShield 2.8.1 Code322 Final: stricter Private Browser ad blocking, compact page tools and Speed Dials, cleaner app navigation/search, real-time DNS clarity, professional data-savings insights, timestamped backups and a richer post-update experience while retaining Code321 core resilience.",
+    "publishedAt":  "2026-08-12T07:15:27.9494478Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.8.0"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.8.1"
 }
