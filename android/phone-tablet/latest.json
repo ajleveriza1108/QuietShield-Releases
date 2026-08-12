@@ -2,9 +2,9 @@
     "versionCode":  324,
     "versionName":  "2.8.3",
     "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.8.3/QuietShield-Premium-v2.8.3-Final-Code324.apk",
-    "sha256":  "1346f30e681ee8bac212f2758053edbe758cba3110ce00cb6c4e3d534fb7a8c0",
-    "notes":  "QuietShield 2.8.3 Code324 Final: responsive modern dialogs across eligible QuietShield and Private Browser UI, tablet-aware sizing, fixed double-padding in Search/History/Offline Pages, readable non-wrapping actions, and consistent light/dark surfaces while retaining exact-hash security source, every Code323 Private Browser Personal Edition feature, and existing security baselines.",
-    "publishedAt":  "2026-08-12T11:37:09.9832418Z",
+    "sha256":  "5b2ce8645faf1bf663aa52fb3f8fa300e62240250396c02096f8547a5711c2f8",
+    "notes":  "QuietShield 2.8.3 Code324 Final: responsive dialogs plus portable .qs backups for future QuietShield Android TV/Windows readers, square Private Browser Speed Dials, pinch-to-zoom, and adaptive tablet address-bar tools for Snapshot, Find, PDF and Offline, while retaining exact-hash security source, Code323 browser protections and updater-last publication.",
+    "publishedAt":  "2026-08-12T12:52:33.5278297Z",
     "channel":  "android-phone-tablet",
     "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.8.3"
 }
