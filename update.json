@@ -1,8 +1,8 @@
 {
-    "versionCode":  327,
-    "versionName":  "2.9.1",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.1/QuietShield-Premium-v2.9.1-Final-Code327.apk",
-    "sha256":  "83535b42b9c10a23620fd3897fc26518f0ea1d6bb1591499abce4ef03a7f212b",
-    "notes":  "QuietShield 2.9.1 Code327 Final: approved futuristic modern minimal GUI overhaul closely follows the QuietShield concept across Protection Dashboard, Private Browser, compact overflow menu and Settings, adds System/Dark/Light theme parity and responsive phone/tablet layouts, while retaining Code326/Code325 browser behavior, tab recovery, auto protection apply, portable .qs backups, exact-hash security source, FileSafety thresholds and updater-last publication.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.1"
+    "versionCode":  328,
+    "versionName":  "2.9.2",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.2/QuietShield-Premium-v2.9.2-Final-Code328.apk",
+    "sha256":  "29c88e4c669ea6bca9d31a57706976c67e7ea080820a9daba75eb7ee215b0e7e",
+    "notes":  "QuietShield 2.9.2 Code328 Final: cleaner content-first dashboard and Private Browser without repeated branding headers, redundant Settings intro removed, Opera-style Speed Dials, consistent System/Dark/AMOLED/Light themes, and retained Code327 protection/security behavior.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.2"
 }
