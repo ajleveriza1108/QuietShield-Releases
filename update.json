@@ -1,8 +1,8 @@
 {
-    "versionCode":  319,
-    "versionName":  "2.7.23",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.7.23/QuietShield-Premium-v2.7.23-Final-Code319.apk",
-    "sha256":  "1d244a677a6dba25154fad2ee231511d5b2f3bb700e395f31db995e80b98c316",
-    "notes":  "QuietShield 2.7.23 Code319 Final: Browser Threat Guard 2.0 adds local deceptive-domain checks while retaining Safe Browsing, signed Browser Shields and Code318 protections.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.7.23"
+    "versionCode":  321,
+    "versionName":  "2.8.0",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.8.0/QuietShield-Premium-v2.8.0-Final-Code321.apk",
+    "sha256":  "32f009c9c3f7ebb113b34ff9f8502a40793f5aa07ae21ff8e343561d63fc210c",
+    "notes":  "QuietShield 2.8.0 Code321 Final: Core Resilience Suite combines boot/ANR recovery, VPN runtime health, event-driven network warnings, differential app-change review, protection self-test, startup safe mode and signed-endpoint hardening while retaining existing protection semantics.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.8.0"
 }
