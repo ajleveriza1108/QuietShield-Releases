@@ -1,8 +1,8 @@
 {
-    "versionCode":  323,
-    "versionName":  "2.8.2",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.8.2/QuietShield-Premium-v2.8.2-Final-Code323.apk",
-    "sha256":  "3deec3be62d2b8627bbb9110782987a0a00b7294ddfc19309def1fa3f4fd042a",
-    "notes":  "QuietShield 2.8.2 Code323 Final: Private Browser Personal Edition adds sharper QuietShield/PB branding, Android default-browser integration and a direct launcher shortcut, active/completed download status with Android file opening, a native PDF reader, configurable search engines and omnibox search, managed-child safe search, intelligent long-URL history and scoped deletion, offline reading, resumable secure downloads, and Backup Format 8 while retaining Code322 browser protections and Code321 resilience.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.8.2"
+    "versionCode":  324,
+    "versionName":  "2.8.3",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.8.3/QuietShield-Premium-v2.8.3-Final-Code324.apk",
+    "sha256":  "1346f30e681ee8bac212f2758053edbe758cba3110ce00cb6c4e3d534fb7a8c0",
+    "notes":  "QuietShield 2.8.3 Code324 Final: responsive modern dialogs across eligible QuietShield and Private Browser UI, tablet-aware sizing, fixed double-padding in Search/History/Offline Pages, readable non-wrapping actions, and consistent light/dark surfaces while retaining exact-hash security source, every Code323 Private Browser Personal Edition feature, and existing security baselines.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.8.3"
 }
