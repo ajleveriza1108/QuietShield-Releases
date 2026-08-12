@@ -1,8 +1,8 @@
 {
-    "versionCode":  325,
-    "versionName":  "2.8.4",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.8.4/QuietShield-Premium-v2.8.4-Final-Code325.apk",
-    "sha256":  "d3e9f6c1d3c8f1d623f80617ed10a350156e336efe187e66881bc4fd3c9b2e70",
-    "notes":  "QuietShield 2.8.4 Code325 Final: advances the updater version, adds compact circular Private Browser Speed Dials, sharper tablet branding, cleaner Settings, session-only closed-tab recovery, managed-child first-setup tracker alerts default OFF, and automatic debounced protection reconnect while retaining portable .qs backups, Code324 browser tools, exact-hash security source and updater-last publication.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.8.4"
+    "versionCode":  327,
+    "versionName":  "2.9.1",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.1/QuietShield-Premium-v2.9.1-Final-Code327.apk",
+    "sha256":  "83535b42b9c10a23620fd3897fc26518f0ea1d6bb1591499abce4ef03a7f212b",
+    "notes":  "QuietShield 2.9.1 Code327 Final: approved futuristic modern minimal GUI overhaul closely follows the QuietShield concept across Protection Dashboard, Private Browser, compact overflow menu and Settings, adds System/Dark/Light theme parity and responsive phone/tablet layouts, while retaining Code326/Code325 browser behavior, tab recovery, auto protection apply, portable .qs backups, exact-hash security source, FileSafety thresholds and updater-last publication.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.1"
 }
