@@ -1,8 +1,8 @@
 {
-    "versionCode":  331,
-    "versionName":  "2.9.5",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.5/QuietShield-Premium-v2.9.5-Final-Code331.apk",
-    "sha256":  "048bc91a5de8a15471fd4c6f94714a3e50854a5a63e21014061db3d8875fa41e",
-    "notes":  "QuietShield 2.9.5 Code331 Final: cleaner settings action rows remove the left circular glyph controls from Family and safety, Protection setup, and Help and maintenance while preserving every action and retained Code330 behavior.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.5"
+    "versionCode":  332,
+    "versionName":  "2.9.6",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.6/QuietShield-Premium-v2.9.6-Final-Code332.apk",
+    "sha256":  "5a926b8745d35a808aba3ba8bbc634acc33e889c8305533ff0fb7da5909b900c",
+    "notes":  "QuietShield 2.9.6 Code332 Final: Home Quick Actions now follow the saved selection with App Lock fixed, the QuietShield logo is the animated glass protection switch, backup labels and How QuietShield Works are updated, File \u0026 APK Check uses the requested icon, and Home spacing is refined while retained security behavior remains unchanged.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.6"
 }
