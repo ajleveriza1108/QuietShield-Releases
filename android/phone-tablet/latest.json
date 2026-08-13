@@ -1,10 +1,10 @@
 {
-    "versionCode":  333,
-    "versionName":  "2.9.7",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.7/QuietShield-Premium-v2.9.7-Final-Code333.apk",
-    "sha256":  "98b0f1f286f3290d0e4ede26b7895a952c1f324dfa2ab0e6a49b49991f4684b3",
-    "notes":  "QuietShield 2.9.7 Code333 Final: one authoritative premium feature-icon system keeps Home Quick Actions and Settings icons semantically consistent, Mobile Data uses a proper cellular-data icon, and Private Browser History Search is globally available across PB Home, webpages and key browser sections while retained security behavior remains unchanged.",
-    "publishedAt":  "2026-08-13T22:51:16.3416122Z",
+    "versionCode":  334,
+    "versionName":  "2.9.8",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.8/QuietShield-Premium-v2.9.8-Final-Code334.apk",
+    "sha256":  "059dc3e4e57029e6ac45511571f57bf64cc0dc57f22608bb9fb957dac1a79ef4",
+    "notes":  "QuietShield 2.9.8 Code334 Final: Activity rows remove redundant circular leading controls, primary Home/Protect/Private Browser/Activity/Settings navigation is icon-only with semantic vectors, detailed Update Log entries are restored, and Android 16 dialog window lifecycle races are hardened while Code333 security and Private Browser behavior are retained.",
+    "publishedAt":  "2026-08-13T23:34:17.2408403Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.7"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.8"
 }
