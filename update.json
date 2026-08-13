@@ -1,8 +1,8 @@
 {
-    "versionCode":  329,
-    "versionName":  "2.9.3",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.3/QuietShield-Premium-v2.9.3-Final-Code329.apk",
-    "sha256":  "87df2a575dc464805f5803b3c6b12b1cfd77e33028a093b47181abaed503460a",
-    "notes":  "QuietShield 2.9.3 Code329 Final: current-day Data Saved on Home, context-aware Private Browser page tools, QuietShield PB branded navigation, cleaner PB Home, warm dirty-white Light theme with readable text, and retained protection/security behavior.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.3"
+    "versionCode":  330,
+    "versionName":  "2.9.4",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.4/QuietShield-Premium-v2.9.4-Final-Code330.apk",
+    "sha256":  "7a40eab503c2c498fa5d2db760ed214e19a5fe690a40c994fa267a4826eb929a",
+    "notes":  "QuietShield 2.9.4 Code330 Final: responsive no-clip tablet navigation and shared controls, compact typed-only Private Browser history suggestions, PB Home chrome that fades away on webpages and returns on Home, with existing protection/security behavior retained.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.4"
 }
