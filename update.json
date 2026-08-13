@@ -1,8 +1,8 @@
 {
-    "versionCode":  330,
-    "versionName":  "2.9.4",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.4/QuietShield-Premium-v2.9.4-Final-Code330.apk",
-    "sha256":  "7a40eab503c2c498fa5d2db760ed214e19a5fe690a40c994fa267a4826eb929a",
-    "notes":  "QuietShield 2.9.4 Code330 Final: responsive no-clip tablet navigation and shared controls, compact typed-only Private Browser history suggestions, PB Home chrome that fades away on webpages and returns on Home, with existing protection/security behavior retained.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.4"
+    "versionCode":  331,
+    "versionName":  "2.9.5",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.5/QuietShield-Premium-v2.9.5-Final-Code331.apk",
+    "sha256":  "048bc91a5de8a15471fd4c6f94714a3e50854a5a63e21014061db3d8875fa41e",
+    "notes":  "QuietShield 2.9.5 Code331 Final: cleaner settings action rows remove the left circular glyph controls from Family and safety, Protection setup, and Help and maintenance while preserving every action and retained Code330 behavior.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.5"
 }
