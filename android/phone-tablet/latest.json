@@ -1,10 +1,10 @@
 {
-    "versionCode":  332,
-    "versionName":  "2.9.6",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.6/QuietShield-Premium-v2.9.6-Final-Code332.apk",
-    "sha256":  "5a926b8745d35a808aba3ba8bbc634acc33e889c8305533ff0fb7da5909b900c",
-    "notes":  "QuietShield 2.9.6 Code332 Final: Home Quick Actions now follow the saved selection with App Lock fixed, the QuietShield logo is the animated glass protection switch, backup labels and How QuietShield Works are updated, File \u0026 APK Check uses the requested icon, and Home spacing is refined while retained security behavior remains unchanged.",
-    "publishedAt":  "2026-08-13T03:29:08.9394320Z",
+    "versionCode":  333,
+    "versionName":  "2.9.7",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.7/QuietShield-Premium-v2.9.7-Final-Code333.apk",
+    "sha256":  "98b0f1f286f3290d0e4ede26b7895a952c1f324dfa2ab0e6a49b49991f4684b3",
+    "notes":  "QuietShield 2.9.7 Code333 Final: one authoritative premium feature-icon system keeps Home Quick Actions and Settings icons semantically consistent, Mobile Data uses a proper cellular-data icon, and Private Browser History Search is globally available across PB Home, webpages and key browser sections while retained security behavior remains unchanged.",
+    "publishedAt":  "2026-08-13T22:51:16.3416122Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.6"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.7"
 }
