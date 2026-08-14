@@ -1,10 +1,10 @@
 {
-    "versionCode":  342,
-    "versionName":  "2.9.16",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.16/QuietShield-Premium-v2.9.16-Final-Code342.apk",
-    "sha256":  "ae534d001e5849d8bc213f377110d4eaf277ab2f75c9eeffe9d0fee57153e094",
-    "notes":  "QuietShield 2.9.16 Code342 Final: adds Search aggressive apps inside Aggressive ads \u0026 trackers; changes verified-update Settings attention from blue to green; presents What\u0027s New / Update Log as readable bullet lists; hardens Got it and other primary dialog action contrast after dialog attachment; restores compact Private Browser icon proportions while retaining Code341 interaction polish, Code340 Web Shields, FileSafety protections and all release safety gates.",
-    "publishedAt":  "2026-08-14T14:53:17.4495606Z",
+    "versionCode":  343,
+    "versionName":  "2.9.17",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.17/QuietShield-Premium-v2.9.17-Final-Code343.apk",
+    "sha256":  "0ca192536cdc1b09f7320abdd3410ee18565da0d0a40bf61f15998ccf86aae87",
+    "notes":  "QuietShield 2.9.17 Code343 Final: critical Backup \u0026 Restore safety snapshot/rollback and JSON type compatibility; centralized HOME/SystemUI critical-package guard plus A/B/C source audit; Private Browser address-bar width repair; retains Code342 search, green update attention, bullet notes, dialog contrast, Web Shields, FileSafety and release gates.",
+    "publishedAt":  "2026-08-14T23:08:44.1886546Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.16"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.17"
 }
