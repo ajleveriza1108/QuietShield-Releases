@@ -1,8 +1,8 @@
 {
-    "versionCode":  340,
-    "versionName":  "2.9.14",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.14/QuietShield-Premium-v2.9.14-Final-Code340.apk",
-    "sha256":  "da16227fa4a3327e5e0bdd0b88044d21344e127d4e382d781aef25506b6f07ce",
-    "notes":  "QuietShield 2.9.14 Code340 Final: Private Browser now uses general-purpose Web Shields with Balanced, Enhanced and Custom profiles, per-site settings, ad and tracker controls, conservative tracking-script and cryptomining blocking, cosmetic cleanup, verified signed filter rules, text-safe PB controls, and all Code339 Speed Dial folders, theme cleanup, update attention and security behavior retained.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.14"
+    "versionCode":  341,
+    "versionName":  "2.9.15",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.15/QuietShield-Premium-v2.9.15-Final-Code341.apk",
+    "sha256":  "b52af96545b827ce662cbddaa99a7f526ce4e8267a49f0caa1066112adf3d699",
+    "notes":  "QuietShield 2.9.15 Code341 Final: Update Log and all primary dialog actions gain guaranteed cross-theme contrast; Private Browser gets persistent semantic Canvas icons, a magnifying-glass Search History control, easier Speed Dial folder creation, compact cell-sized reorder guidance, cleaner Speed Dial Home, a bottom-right anchored Settings bubble, and seamless fade transitions back to QuietShield Home while Code340 Web Shields and retained security behavior remain unchanged.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.15"
 }
