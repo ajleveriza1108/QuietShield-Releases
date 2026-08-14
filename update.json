@@ -1,8 +1,8 @@
 {
-    "versionCode":  335,
-    "versionName":  "2.9.9",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.9/QuietShield-Premium-v2.9.9-Final-Code335.apk",
-    "sha256":  "9892b47f7ceb590eaac8e71ca2c586c3739b9a239e9caffa12bf2e8ee2ec7cc8",
-    "notes":  "QuietShield 2.9.9 Code335 Final: Update Log presentation is simplified with compact titles and no wrapped text-badge icons, Edit Quick Access removes duplicate emoji/glyph prefixes while keeping one semantic vector per feature, and the primary Settings navigation now uses a true cogwheel while Code334 dialog hardening and retained security behavior remain unchanged.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.9"
+    "versionCode":  336,
+    "versionName":  "2.9.10",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.10/QuietShield-Premium-v2.9.10-Final-Code336.apk",
+    "sha256":  "ba0548c095332209d5153d28f043dfa71de8eac6b95c27da7ecdd7a3ff3be1f0",
+    "notes":  "QuietShield 2.9.10 Code336 Final: Protection per-app rows remove redundant circular leading controls, dialog actions use consistent high-contrast QuietShield typography, and Home Data Saved now shows a \u003e click cue while Code335/334/333 retained behavior and security remain unchanged.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.10"
 }
