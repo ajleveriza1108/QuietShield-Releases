@@ -1,10 +1,10 @@
 {
-    "versionCode":  336,
-    "versionName":  "2.9.10",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.10/QuietShield-Premium-v2.9.10-Final-Code336.apk",
-    "sha256":  "ba0548c095332209d5153d28f043dfa71de8eac6b95c27da7ecdd7a3ff3be1f0",
-    "notes":  "QuietShield 2.9.10 Code336 Final: Protection per-app rows remove redundant circular leading controls, dialog actions use consistent high-contrast QuietShield typography, and Home Data Saved now shows a \u003e click cue while Code335/334/333 retained behavior and security remain unchanged.",
-    "publishedAt":  "2026-08-14T00:42:27.2774487Z",
+    "versionCode":  337,
+    "versionName":  "2.9.11",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.11/QuietShield-Premium-v2.9.11-Final-Code337.apk",
+    "sha256":  "d9dda788c71408d3c68e0ebc9978a0e4a76c9818b38559dfacabc5e3995a0d55",
+    "notes":  "QuietShield 2.9.11 Code337 Final: feature/content surfaces are text-first with Quick Settings retained, skipped verified updates keep a visible Settings attention state and top Settings update button, and retained Code336/335/334/333 security and Private Browser behavior remain unchanged.",
+    "publishedAt":  "2026-08-14T05:13:45.3611737Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.10"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.11"
 }
