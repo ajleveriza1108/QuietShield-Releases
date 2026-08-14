@@ -1,8 +1,8 @@
 {
-    "versionCode":  337,
-    "versionName":  "2.9.11",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.11/QuietShield-Premium-v2.9.11-Final-Code337.apk",
-    "sha256":  "d9dda788c71408d3c68e0ebc9978a0e4a76c9818b38559dfacabc5e3995a0d55",
-    "notes":  "QuietShield 2.9.11 Code337 Final: feature/content surfaces are text-first with Quick Settings retained, skipped verified updates keep a visible Settings attention state and top Settings update button, and retained Code336/335/334/333 security and Private Browser behavior remain unchanged.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.11"
+    "versionCode":  338,
+    "versionName":  "2.9.12",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.12/QuietShield-Premium-v2.9.12-Final-Code338.apk",
+    "sha256":  "1435bfe52a9a5d64b26f70438f322a187ab69556c620d49131ad127069695c9c",
+    "notes":  "QuietShield 2.9.12 Code338 Final: Home Quick Actions restore function-matched semantic icons, Settings rows under Family and safety / Protection setup / Help and maintenance regain consistent full title typography, and remaining decorative content glyphs stay removed while Code337 update attention and retained security/Private Browser behavior remain unchanged.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.12"
 }
