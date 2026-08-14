@@ -1,10 +1,10 @@
 {
-    "versionCode":  341,
-    "versionName":  "2.9.15",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.15/QuietShield-Premium-v2.9.15-Final-Code341.apk",
-    "sha256":  "b52af96545b827ce662cbddaa99a7f526ce4e8267a49f0caa1066112adf3d699",
-    "notes":  "QuietShield 2.9.15 Code341 Final: Update Log and all primary dialog actions gain guaranteed cross-theme contrast; Private Browser gets persistent semantic Canvas icons, a magnifying-glass Search History control, easier Speed Dial folder creation, compact cell-sized reorder guidance, cleaner Speed Dial Home, a bottom-right anchored Settings bubble, and seamless fade transitions back to QuietShield Home while Code340 Web Shields and retained security behavior remain unchanged.",
-    "publishedAt":  "2026-08-14T13:19:04.1227332Z",
+    "versionCode":  342,
+    "versionName":  "2.9.16",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.16/QuietShield-Premium-v2.9.16-Final-Code342.apk",
+    "sha256":  "ae534d001e5849d8bc213f377110d4eaf277ab2f75c9eeffe9d0fee57153e094",
+    "notes":  "QuietShield 2.9.16 Code342 Final: adds Search aggressive apps inside Aggressive ads \u0026 trackers; changes verified-update Settings attention from blue to green; presents What\u0027s New / Update Log as readable bullet lists; hardens Got it and other primary dialog action contrast after dialog attachment; restores compact Private Browser icon proportions while retaining Code341 interaction polish, Code340 Web Shields, FileSafety protections and all release safety gates.",
+    "publishedAt":  "2026-08-14T14:53:17.4495606Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.15"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.16"
 }
