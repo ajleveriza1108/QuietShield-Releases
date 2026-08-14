@@ -1,10 +1,10 @@
 {
-    "versionCode":  338,
-    "versionName":  "2.9.12",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.12/QuietShield-Premium-v2.9.12-Final-Code338.apk",
-    "sha256":  "1435bfe52a9a5d64b26f70438f322a187ab69556c620d49131ad127069695c9c",
-    "notes":  "QuietShield 2.9.12 Code338 Final: Home Quick Actions restore function-matched semantic icons, Settings rows under Family and safety / Protection setup / Help and maintenance regain consistent full title typography, and remaining decorative content glyphs stay removed while Code337 update attention and retained security/Private Browser behavior remain unchanged.",
-    "publishedAt":  "2026-08-14T08:23:14.5909439Z",
+    "versionCode":  339,
+    "versionName":  "2.9.13",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.13/QuietShield-Premium-v2.9.13-Final-Code339.apk",
+    "sha256":  "14037ccb4aca5928dd56cb79d49e6230be0cda8bc6df0f13e102c561bffecd2a",
+    "notes":  "QuietShield 2.9.13 Code339 Final: nested/family surfaces follow the active theme, decorative emoji are removed across UI text, Activity adds Aggressive ads \u0026 trackers, and Private Browser Speed Dials gain smooth press-and-hold rearranging, insertion guidance, drag-to-folder creation, renamable folders, four-item previews, animated folder pop-outs, and in-folder reordering while retained security and update-attention behavior remain unchanged.",
+    "publishedAt":  "2026-08-14T09:43:37.5916281Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.12"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.13"
 }
