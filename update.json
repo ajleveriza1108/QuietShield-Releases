@@ -1,8 +1,8 @@
 {
-    "versionCode":  339,
-    "versionName":  "2.9.13",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.13/QuietShield-Premium-v2.9.13-Final-Code339.apk",
-    "sha256":  "14037ccb4aca5928dd56cb79d49e6230be0cda8bc6df0f13e102c561bffecd2a",
-    "notes":  "QuietShield 2.9.13 Code339 Final: nested/family surfaces follow the active theme, decorative emoji are removed across UI text, Activity adds Aggressive ads \u0026 trackers, and Private Browser Speed Dials gain smooth press-and-hold rearranging, insertion guidance, drag-to-folder creation, renamable folders, four-item previews, animated folder pop-outs, and in-folder reordering while retained security and update-attention behavior remain unchanged.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.13"
+    "versionCode":  340,
+    "versionName":  "2.9.14",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.14/QuietShield-Premium-v2.9.14-Final-Code340.apk",
+    "sha256":  "da16227fa4a3327e5e0bdd0b88044d21344e127d4e382d781aef25506b6f07ce",
+    "notes":  "QuietShield 2.9.14 Code340 Final: Private Browser now uses general-purpose Web Shields with Balanced, Enhanced and Custom profiles, per-site settings, ad and tracker controls, conservative tracking-script and cryptomining blocking, cosmetic cleanup, verified signed filter rules, text-safe PB controls, and all Code339 Speed Dial folders, theme cleanup, update attention and security behavior retained.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.14"
 }
