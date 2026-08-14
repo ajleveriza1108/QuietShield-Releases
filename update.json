@@ -1,8 +1,8 @@
 {
-    "versionCode":  334,
-    "versionName":  "2.9.8",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.8/QuietShield-Premium-v2.9.8-Final-Code334.apk",
-    "sha256":  "059dc3e4e57029e6ac45511571f57bf64cc0dc57f22608bb9fb957dac1a79ef4",
-    "notes":  "QuietShield 2.9.8 Code334 Final: Activity rows remove redundant circular leading controls, primary Home/Protect/Private Browser/Activity/Settings navigation is icon-only with semantic vectors, detailed Update Log entries are restored, and Android 16 dialog window lifecycle races are hardened while Code333 security and Private Browser behavior are retained.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.8"
+    "versionCode":  335,
+    "versionName":  "2.9.9",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.9/QuietShield-Premium-v2.9.9-Final-Code335.apk",
+    "sha256":  "9892b47f7ceb590eaac8e71ca2c586c3739b9a239e9caffa12bf2e8ee2ec7cc8",
+    "notes":  "QuietShield 2.9.9 Code335 Final: Update Log presentation is simplified with compact titles and no wrapped text-badge icons, Edit Quick Access removes duplicate emoji/glyph prefixes while keeping one semantic vector per feature, and the primary Settings navigation now uses a true cogwheel while Code334 dialog hardening and retained security behavior remain unchanged.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.9"
 }
