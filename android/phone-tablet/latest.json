@@ -1,10 +1,10 @@
 {
-    "versionCode":  345,
-    "versionName":  "2.9.19",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.19/QuietShield-Premium-v2.9.19-Final-Code345.apk",
-    "sha256":  "21ca6a624ce18498e6705a3ebc179127d3b0eb4eb4ead5f8a23c4cebbeec3104",
-    "notes":  "QuietShield 2.9.19 Code345 Final: adds optional per-app Strict App Shield with an explicit compatibility warning, app-filtered troubleshooting, explained destination controls and a local-only App privacy report. Normal App Ad Protection remains the recommended default; Threat, Child Safety, imported protection, parent rules, CriticalPackageGuard and FileSafety remain protected.",
-    "publishedAt":  "2026-08-15T05:19:55.1361222Z",
+    "versionCode":  346,
+    "versionName":  "2.9.20",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.20/QuietShield-Premium-v2.9.20-Final-Code346.apk",
+    "sha256":  "015a98c163eeb9a5fc665f696e17aec01d99807c1efeba803d3e55ec1997abe2",
+    "notes":  "QuietShield 2.9.20 Code346 Final: adds system-wide Link Guard, dedicated gambling and adult/explicit protection, advanced Connection Explorer with Learning Mode and compatibility warnings, File Link Guard, and compact App Connection Lock choices. Code345 Strict App Shield remains included. No new HTTPS MITM, package disable/hide/suspend, ADB, force push, public AAB, or public R8 mapping.",
+    "publishedAt":  "2026-08-15T11:59:14.7269290Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.19"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.20"
 }
