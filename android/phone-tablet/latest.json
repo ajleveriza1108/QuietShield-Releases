@@ -1,10 +1,10 @@
 {
-    "versionCode":  349,
-    "versionName":  "2.9.23",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.23/QuietShield-Premium-v2.9.23-Final-Code349.apk",
-    "sha256":  "8300ddf2408a77c1bb84e16e6f3e4fe2b182a5e7a0465b19792d7cb1c166f3a5",
-    "notes":  "QuietShield 2.9.23 Code349 Final: keeps Private Browser Web Shields visible on every page, surfaces repeated already-classified aggressive ad/tracker activity, scales Internet Rules to 200 non-redundant effective rules with reliable scrolling, gives Quick Actions unique function-matched icons, and updates How QuietShield Works. Code348 opt-in Connection Explorer and Code346/345 security protections remain included.",
-    "publishedAt":  "2026-08-15T14:32:43.1400298Z",
+    "versionCode":  350,
+    "versionName":  "2.9.24",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.24/QuietShield-Premium-v2.9.24-Final-Code350.apk",
+    "sha256":  "afe794f8332bd268f7c8aad93532b27849db63dfa52847b33b2afeac682970d8",
+    "notes":  "QuietShield 2.9.24 Code350 Final: gives Connection Explorer a compact app-first and keyboard-safe layout, adds an explicit System apps visibility toggle with safety warnings, adds opt-in selected-app Block/review alerts for actual QuietShield block decisions with per-app rate limiting, preserves hidden observed system-app selections, and updates How QuietShield Works. Code349 Private Browser/200-rule/Quick Action improvements and retained security protections remain included.",
+    "publishedAt":  "2026-08-15T22:48:54.7540365Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.23"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.24"
 }
