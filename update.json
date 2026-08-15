@@ -1,8 +1,8 @@
 {
-    "versionCode":  344,
-    "versionName":  "2.9.18",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.18/QuietShield-Premium-v2.9.18-Final-Code344.apk",
-    "sha256":  "48d0dcfa171f5c18728880283a3a10c5b376ad133449c5383f9fcfbb376e882d",
-    "notes":  "QuietShield 2.9.18 Code344 Final: canonical Code343 repairs delivered under a new Android versionCode so devices already on the earlier Code343 build can update normally. Includes the Settings magnifying glass, global PB Incognito/Website view, .qs restore confirmation/rollback, CriticalPackageGuard, Web Shields and FileSafety protections.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.18"
+    "versionCode":  345,
+    "versionName":  "2.9.19",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.19/QuietShield-Premium-v2.9.19-Final-Code345.apk",
+    "sha256":  "21ca6a624ce18498e6705a3ebc179127d3b0eb4eb4ead5f8a23c4cebbeec3104",
+    "notes":  "QuietShield 2.9.19 Code345 Final: adds optional per-app Strict App Shield with an explicit compatibility warning, app-filtered troubleshooting, explained destination controls and a local-only App privacy report. Normal App Ad Protection remains the recommended default; Threat, Child Safety, imported protection, parent rules, CriticalPackageGuard and FileSafety remain protected.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.19"
 }
