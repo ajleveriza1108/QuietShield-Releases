@@ -1,10 +1,10 @@
 {
-    "versionCode":  343,
-    "versionName":  "2.9.17",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.17/QuietShield-Premium-v2.9.17-Final-Code343.apk",
-    "sha256":  "0ca192536cdc1b09f7320abdd3410ee18565da0d0a40bf61f15998ccf86aae87",
-    "notes":  "QuietShield 2.9.17 Code343 Final: critical Backup \u0026 Restore safety snapshot/rollback and JSON type compatibility; centralized HOME/SystemUI critical-package guard plus A/B/C source audit; Private Browser address-bar width repair; retains Code342 search, green update attention, bullet notes, dialog contrast, Web Shields, FileSafety and release gates.",
-    "publishedAt":  "2026-08-14T23:08:44.1886546Z",
+    "versionCode":  344,
+    "versionName":  "2.9.18",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.18/QuietShield-Premium-v2.9.18-Final-Code344.apk",
+    "sha256":  "48d0dcfa171f5c18728880283a3a10c5b376ad133449c5383f9fcfbb376e882d",
+    "notes":  "QuietShield 2.9.18 Code344 Final: canonical Code343 repairs delivered under a new Android versionCode so devices already on the earlier Code343 build can update normally. Includes the Settings magnifying glass, global PB Incognito/Website view, .qs restore confirmation/rollback, CriticalPackageGuard, Web Shields and FileSafety protections.",
+    "publishedAt":  "2026-08-15T03:18:21.9908379Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.17"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.18"
 }
