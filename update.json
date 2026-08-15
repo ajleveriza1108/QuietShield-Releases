@@ -1,8 +1,8 @@
 {
-    "versionCode":  348,
-    "versionName":  "2.9.22",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.22/QuietShield-Premium-v2.9.22-Final-Code348.apk",
-    "sha256":  "68dab5fb2fe7658a4b4bb2d8ad47869e3d70b6cae713c803bc58528a2310e413",
-    "notes":  "QuietShield 2.9.22 Code348 Final: makes Connection Explorer observation and review notifications opt-in and app-scoped, keeps destination action pop-ups self-closing with verified rule state, retains Connection Explorer in Protection and whole-app Settings search, and adds Connection Explorer to optional Quick Access. Link Guard, Sensitive Content, File Link Guard, Strict App Shield, FileSafety and critical-package protections remain active. No HTTPS MITM, package disable/hide/suspend, ADB, force push, public AAB, or public R8 mapping.",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.22"
+    "versionCode":  349,
+    "versionName":  "2.9.23",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.23/QuietShield-Premium-v2.9.23-Final-Code349.apk",
+    "sha256":  "8300ddf2408a77c1bb84e16e6f3e4fe2b182a5e7a0465b19792d7cb1c166f3a5",
+    "notes":  "QuietShield 2.9.23 Code349 Final: keeps Private Browser Web Shields visible on every page, surfaces repeated already-classified aggressive ad/tracker activity, scales Internet Rules to 200 non-redundant effective rules with reliable scrolling, gives Quick Actions unique function-matched icons, and updates How QuietShield Works. Code348 opt-in Connection Explorer and Code346/345 security protections remain included.",
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.23"
 }
