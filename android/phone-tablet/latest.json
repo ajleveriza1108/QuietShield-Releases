@@ -1,10 +1,10 @@
 {
-    "versionCode":  351,
-    "versionName":  "2.9.25",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.25/QuietShield-Premium-v2.9.25-Final-Code351.apk",
-    "sha256":  "411c8bbd9f2ddb4713a8e8d53aca588228b23b9ce9284223d72eb5be7a48e665",
-    "notes":  "QuietShield 2.9.25 Code351 Final: makes Data Savings ranges/months/dates open real local drill-downs, consolidates same-category What\u0027s New cards, keeps Settings update attention green while selected, requires an active cellular route for background Mobile Data Watch alerts, rounds/insets the protection logo consistently on tablets, uses thin Edit Quick Settings controls, retains every exactly attributable allowed/blocked hostname for explicitly observed Connection Explorer apps, and updates How QuietShield Works. Code350 compact Explorer/system-app/block-alert behavior and Code349 PB/200-rule/Quick Action improvements remain included.",
-    "publishedAt":  "2026-08-16T22:53:33.7101910Z",
+    "versionCode":  352,
+    "versionName":  "2.9.26",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.26/QuietShield-Premium-v2.9.26-Final-Code352.apk",
+    "sha256":  "f3919f458feab7d38ac26f98801745176a9b7a4a325e6af7201ffd63e2b5082c",
+    "notes":  "QuietShield 2.9.26 Code352 Final: adds All / Blocked / Allowed Connection Explorer destination filters with current-effective-state counters, shows only apps with captured destinations in the main Explorer list while keeping Observed apps available for opt-in selection, and preserves the destination-list viewport after rule or refresh actions. Code351 complete selected-app inventory, Code350 system-app/block-alert controls, and Code349 PB/200-rule/Quick Action improvements remain included.",
+    "publishedAt":  "2026-08-16T23:45:06.9332942Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.25"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.26"
 }
