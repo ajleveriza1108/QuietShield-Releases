@@ -1,10 +1,10 @@
 {
-    "versionCode":  350,
-    "versionName":  "2.9.24",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.24/QuietShield-Premium-v2.9.24-Final-Code350.apk",
-    "sha256":  "afe794f8332bd268f7c8aad93532b27849db63dfa52847b33b2afeac682970d8",
-    "notes":  "QuietShield 2.9.24 Code350 Final: gives Connection Explorer a compact app-first and keyboard-safe layout, adds an explicit System apps visibility toggle with safety warnings, adds opt-in selected-app Block/review alerts for actual QuietShield block decisions with per-app rate limiting, preserves hidden observed system-app selections, and updates How QuietShield Works. Code349 Private Browser/200-rule/Quick Action improvements and retained security protections remain included.",
-    "publishedAt":  "2026-08-15T22:48:54.7540365Z",
+    "versionCode":  351,
+    "versionName":  "2.9.25",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.25/QuietShield-Premium-v2.9.25-Final-Code351.apk",
+    "sha256":  "411c8bbd9f2ddb4713a8e8d53aca588228b23b9ce9284223d72eb5be7a48e665",
+    "notes":  "QuietShield 2.9.25 Code351 Final: makes Data Savings ranges/months/dates open real local drill-downs, consolidates same-category What\u0027s New cards, keeps Settings update attention green while selected, requires an active cellular route for background Mobile Data Watch alerts, rounds/insets the protection logo consistently on tablets, uses thin Edit Quick Settings controls, retains every exactly attributable allowed/blocked hostname for explicitly observed Connection Explorer apps, and updates How QuietShield Works. Code350 compact Explorer/system-app/block-alert behavior and Code349 PB/200-rule/Quick Action improvements remain included.",
+    "publishedAt":  "2026-08-16T22:53:33.7101910Z",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.24"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.25"
 }
