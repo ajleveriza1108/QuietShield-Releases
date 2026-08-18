@@ -1,10 +1,14 @@
 {
-    "versionCode":  354,
-    "versionName":  "2.9.28",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.28/QuietShield-Premium-v2.9.28-Final-Code354.apk",
-    "sha256":  "72e32a846b957e6b04d6ab91640b81362f9fdfc85e5446588a77433bb70d4ca5",
-    "notes":  "QuietShield 2.9.28 Code354 Final: makes Connection Explorer destination-first with compact filters and a compact Profile/Learning/Tools row, moves secondary actions and the long explanation behind Tools/About, and repairs Whatâ€™s New / Update Log cards so semantic icon labels never render as jumbled text. Code353 Protection Intelligence and all existing DNS-focused/no-MITM security boundaries remain unchanged.",
-    "publishedAt":  "2026-08-17T07:18:53.2927073Z",
+    "versionCode":  355,
+    "versionName":  "2.9.29",
+    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.29/QuietShield-Premium-v2.9.29-Final-Code355.apk",
+    "sha256":  "3a0ab6497014a93118386e41ff007e02e2162b23c21d9f9663428910a74879f3",
+    "notes":  "QuietShield 2.9.29 Code355 Final: separate signed update-manifest trust with anti-rollback/expiry, runtime release-signer enforcement for sensitive update/restore operations, explicit Android backup exclusions, release WebView debugging off, component/dependency/leakage gates, and portable Connection Explorer observation plus bounded destination evidence in .qs backup/restore.",
+    "publishedAt":  "2026-08-18T05:38:22.0432770+00:00",
     "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.28"
+    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.29",
+    "releaseCounter":  355,
+    "signedAtEpochMs":  1787031502043,
+    "expiresAtEpochMs":  1850103502043,
+    "updateCertificateSha256":  "2fcb2b15950dafa3c5208ea68157a8b1e61358bd5216f5542a5e6d5be7c09229"
 }
