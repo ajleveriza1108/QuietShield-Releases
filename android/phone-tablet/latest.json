@@ -1,14 +1,14 @@
 {
-    "versionCode":  367,
-    "versionName":  "2.9.41",
-    "apkUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.41/QuietShield-Premium-v2.9.41-Final-Code367.apk",
-    "sha256":  "7f11fa4b35ddd7c982f56748b4a473fce186aa989c9fc71f7b3aff7e5e7a0656",
-    "notes":  "QuietShield 2.9.41 Code367: Private Browser second-tab creation is explicit-user only. Websites, advertising redirects and popup scripts cannot automatically consume the empty second tab; the + button and long-press Open link in a new tab remain available. Code366 visible link actions and all retained protections remain intact.",
-    "publishedAt":  "2026-08-23T12:40:12.7676189Z",
-    "channel":  "android-phone-tablet",
-    "releaseUrl":  "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.41",
-    "releaseCounter":  367,
-    "signedAtEpochMs":  1787488812752,
-    "expiresAtEpochMs":  1850560812752,
-    "updateCertificateSha256":  "2fcb2b15950dafa3c5208ea68157a8b1e61358bd5216f5542a5e6d5be7c09229"
+  "versionCode": 368,
+  "versionName": "2.9.42",
+  "apkUrl": "https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/v2.9.42/QuietShield-Premium-v2.9.42-Final-Code368.apk",
+  "sha256": "6c16c7b927c41e1226be1f40310bdc0b267bb86dec1822b6cb8a5b08769f3a65",
+  "notes": "QuietShield 2.9.42 Code368 Final Server Update. This is the final Android app update delivered through the existing QuietShield server/GitHub updater. Install 2.9.42 to receive the migration notice. Starting with 2.9.43 / Code369, future QuietShield Android app updates are delivered through Google Play.",
+  "publishedAt": "2026-08-25T03:06:22.3157061+00:00",
+  "channel": "android-phone-tablet",
+  "releaseUrl": "https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/v2.9.42",
+  "releaseCounter": 368,
+  "signedAtEpochMs": 1787627182315,
+  "expiresAtEpochMs": 1850785582315,
+  "updateCertificateSha256": "2fcb2b15950dafa3c5208ea68157a8b1e61358bd5216f5542a5e6d5be7c09229"
 }
