@@ -1,0 +1,7 @@
+Improved QuietShield reliability and update experience.
+
+• Restored the What's New summary after app updates
+• Improved Mobile and Desktop website view reliability
+• Website view choices remain remembered per site
+• Retained Android 16 VPN stability improvements
+• General stability and compatibility improvements
