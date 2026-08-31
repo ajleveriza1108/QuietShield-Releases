@@ -1,0 +1,10 @@
+QuietShield 2.9.55
+
+Improved QuietShield Private Browser for better privacy, media handling, and downloads.
+
+• Stronger browsing and content-blocking protections
+• Improved Private Browser media handling
+• Faster and more reliable downloads
+• Fixed cropped text in Private Browser settings
+• Improved Android compatibility and security
+• General stability and performance improvements
