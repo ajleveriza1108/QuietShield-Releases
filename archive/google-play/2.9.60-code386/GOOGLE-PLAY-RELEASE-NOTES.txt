@@ -1,0 +1,8 @@
+Improved Private Browser Mobile and Desktop website viewing.
+
+• Desktop view now renders responsive websites with a true desktop-width layout
+• Mobile view reliably returns websites to their native phone layout
+• Website view choices stay remembered per site
+• Improved compatibility with modern browser identity and responsive-layout detection
+• Retains Android 16 VPN startup stability improvements
+• General Private Browser reliability improvements
