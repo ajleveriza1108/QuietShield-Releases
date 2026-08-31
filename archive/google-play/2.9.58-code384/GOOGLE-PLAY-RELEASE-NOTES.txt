@@ -1,0 +1,7 @@
+QuietShield 2.9.58 simplifies background-service usage and keeps Private Browser behavior consistent.
+
+• Reduced foreground-service permissions
+• Improved VPN service compatibility with current Android requirements
+• Mobile and Desktop view choices remain remembered per website
+• Memory, Web Shields, downloads, privacy, and browser stability improvements retained
+• General compatibility and reliability improvements
