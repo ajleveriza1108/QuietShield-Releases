@@ -1,0 +1,10 @@
+<en-US>
+QuietShield 2.9.54
+• Added single active Private Browser media controls and Loop
+• Added lock-screen controls for supported browser media sessions
+• Keeps the screen awake while active video is playing
+• Strengthened general Private Browser ad and tracker protection
+• Improved direct-file download speed with safe range downloading when supported
+• Improved Private Browser settings layout and media reliability
+• Reliability and compatibility improvements
+</en-US>
