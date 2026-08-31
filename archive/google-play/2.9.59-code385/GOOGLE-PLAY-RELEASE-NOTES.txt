@@ -1,0 +1,7 @@
+Improved QuietShield stability on Android 16.
+
+• Fixed a startup crash affecting VPN protection
+• Improved Android foreground-service compatibility
+• Retained per-website Mobile and Desktop view preferences
+• Retained Private Browser memory and performance improvements
+• General stability improvements
