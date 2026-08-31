@@ -1,0 +1,7 @@
+QuietShield 2.9.57 improves Private Browser website-view consistency.
+
+• Mobile and Desktop view choices are now remembered per website
+• View mode stays consistent across pages, redirects, tabs, and common subdomains
+• Switching a website back to Mobile replaces its saved Desktop preference
+• Private Browser media, Web Shields, downloads, and memory improvements are retained
+• General stability and compatibility improvements
