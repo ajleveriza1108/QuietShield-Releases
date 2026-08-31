@@ -1,0 +1,7 @@
+Improved Private Browser sign-in reliability.
+
+• Fixed website login and session problems in Private Browser
+• Improved OAuth, SSO and verification/challenge compatibility
+• Improved sign-in persistence when returning to Private Browser
+• Retained Premium/Family license sharing and purchase restore improvements
+• Retained Mobile/Desktop website view and Android 16 stability fixes
