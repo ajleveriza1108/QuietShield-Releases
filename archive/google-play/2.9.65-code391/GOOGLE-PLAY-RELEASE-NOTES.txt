@@ -1,0 +1,7 @@
+Improved Private Browser sign-in reliability.
+
+• Fixed Sign in links that could briefly open and return to the previous page
+• Preserved authentication callback and security parameters during login
+• Improved SSO and target-window sign-in navigation
+• Improved authentication cookie compatibility
+• Retained Mobile/Desktop website view and Android 16 VPN stability improvements
