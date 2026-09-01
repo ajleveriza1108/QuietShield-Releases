@@ -1,0 +1,8 @@
+Improved QuietShield Private Browser sign-in stability and release reliability.
+
+• Retains the corrected Private Browser sign-in navigation flow
+• Preserves OAuth and SSO authentication parameters during sign-in
+• Keeps sign-in navigation in one continuous browser session
+• Retains Premium and Family license-key sharing improvements
+• Retains Android 16 VPN stability improvements
+• General compatibility and release reliability improvements
