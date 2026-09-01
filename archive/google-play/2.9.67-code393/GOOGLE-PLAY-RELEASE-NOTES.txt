@@ -1,0 +1,9 @@
+Improved startup reliability, Private Browser visibility, and controls.
+
+• Improved automatic protection recovery after device startup
+• Added Private Browser Connection Explorer for current-site connections
+• Improved detection/reporting of persistent ad and tracker activity
+• Updated first-run Quick Actions for faster access to key controls
+• Simplified App Updates to use Google Play as the single update action
+• Moved Child Safety to the top of App protection
+• Retained per-website Mobile/Desktop view memory and sign-in reliability
