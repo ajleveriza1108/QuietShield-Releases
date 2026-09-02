@@ -55,3 +55,10 @@ APK SHA-256:
 
 For Google Play Internal Testing, Automatic protection must be turned off for this release before rollout.
 <!-- QS-CODE397-PLAY-STARTUP:END -->
+
+<!-- QS-CODE398-PREMIUM-CRASH:START -->
+## Current Android critical fix — 2.9.72 / Code398
+
+Fixes the PremiumActivity `ScrollView can host only one direct child` crash
+observed during activity resume on Android 16.
+<!-- QS-CODE398-PREMIUM-CRASH:END -->
