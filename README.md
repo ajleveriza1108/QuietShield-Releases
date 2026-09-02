@@ -1,3 +1,15 @@
+<!-- QUIETSHIELD_CURRENT_ANDROID_START -->
+## Current Android phone/tablet build — 2.9.68 / Code394
+
+**Explainable Network Inspector**
+
+- Google Play remains the customer in-app update channel for Code369+.
+- Manual signed APK: [QuietShield-Premium-v2.9.68-Code394.apk](https://github.com/ajleveriza1108/QuietShield-Releases/releases/download/android-v2.9.68-code394-manual/QuietShield-Premium-v2.9.68-Code394.apk)
+- APK SHA-256: **cd78078149a290ed44fe754d5cbd42acff5a843be7b21d6741844fdef7ee6e33**
+- Release record: [android-v2.9.68-code394-manual](https://github.com/ajleveriza1108/QuietShield-Releases/releases/tag/android-v2.9.68-code394-manual)
+- The legacy **update.json** and **android/phone-tablet/latest.json** direct-update feeds are intentionally **not** changed by this publication.
+<!-- QUIETSHIELD_CURRENT_ANDROID_END -->
+
 # QuietShield Releases
 
 Public update-delivery repository for QuietShield Premium on Android phones
