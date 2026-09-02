@@ -44,3 +44,14 @@ Android TV is not included in this repository workflow yet.
 - Profile editor: digital-keyboard focus and cursor repair
 - Private Browser: pull down to refresh while preserving browsing data and tabs
 - Retained limitations: PiP removed, Smart Skip Beta, website controls may require future compatibility maintenance
+
+<!-- QS-CODE397-PLAY-STARTUP:START -->
+## Current Android critical hotfix — 2.9.71 / Code397
+
+The manual Code397 APK removes automatic Google Play update calls from QuietShield startup.
+
+APK SHA-256:
+1f5f08ac529bec33be5fa2e495d5513ad6d92767c9d9a892ce9295d8bb1e0916
+
+For Google Play Internal Testing, Automatic protection must be turned off for this release before rollout.
+<!-- QS-CODE397-PLAY-STARTUP:END -->
