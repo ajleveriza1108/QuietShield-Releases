@@ -69,3 +69,9 @@ observed during activity resume on Android 16.
 Fixes repeated Premium screen crash caused by rebuilding its ScrollView hierarchy
 during Activity resume.
 <!-- QS-CODE399-PREMIUM-LIFECYCLE:END -->
+
+<!-- QS-CODE400-PREMIUM-SCROLL:START -->
+## Current Android fix — 2.9.74 / Code400
+
+Fixes the confirmed Premium screen ScrollView direct-child crash.
+<!-- QS-CODE400-PREMIUM-SCROLL:END -->
