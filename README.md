@@ -62,3 +62,10 @@ For Google Play Internal Testing, Automatic protection must be turned off for th
 Fixes the PremiumActivity `ScrollView can host only one direct child` crash
 observed during activity resume on Android 16.
 <!-- QS-CODE398-PREMIUM-CRASH:END -->
+
+<!-- QS-CODE399-PREMIUM-LIFECYCLE:START -->
+## Current Android fix — 2.9.73 / Code399
+
+Fixes repeated Premium screen crash caused by rebuilding its ScrollView hierarchy
+during Activity resume.
+<!-- QS-CODE399-PREMIUM-LIFECYCLE:END -->
