@@ -81,3 +81,9 @@ Fixes the confirmed Premium screen ScrollView direct-child crash.
 
 Exact PremiumActivity ScrollView ownership repair.
 <!-- QS-CODE401-PREMIUM:END -->
+
+<!-- QS-CODE401-CLEAN-PREMIUM:START -->
+## Current Android fix — 2.9.75 / Code401
+
+Clean Premium ScrollView ownership repair. Automatic protection remains ON.
+<!-- QS-CODE401-CLEAN-PREMIUM:END -->
