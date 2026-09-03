@@ -75,3 +75,9 @@ during Activity resume.
 
 Fixes the confirmed Premium screen ScrollView direct-child crash.
 <!-- QS-CODE400-PREMIUM-SCROLL:END -->
+
+<!-- QS-CODE401-PREMIUM:START -->
+## Current Android fix — 2.9.75 / Code401
+
+Exact PremiumActivity ScrollView ownership repair.
+<!-- QS-CODE401-PREMIUM:END -->
