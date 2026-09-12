@@ -4,6 +4,18 @@ Documentation-only release history for QuietShield Android.
 
 The app keeps only the latest 20 release-note files in the package to reduce size. Older notes remain here.
 
+## 2.9.86 — Code412
+
+**Google Play/network diagnostics with compile-verified hardening**
+
+- Added privacy-safe Google Play and network environment diagnostics for intermittent Google installer-check problems.
+- Protection Health now reports installer provenance, Play Store/Services state, captive portal, VPN conflict, Private DNS, and IPv4/IPv6 readiness without recording browsing history.
+- Corrected the diagnostics visibility contract and recommendation string formatting; the changed diagnostics/policy sources were compile-checked before packaging.
+- Retains corrected Private Browser Back/Forward history behavior and actual Android user-added CA detection.
+- Release builds resolve dependencies online first with bounded retries and use verified offline cache only as a fallback.
+- Failed updater-only Codes 406–411 are not represented as shipped in-app releases.
+- Google Play Automatic Protection remains enabled; AAB upload remains manual through Google Play Internal Testing.
+
 ## 2.9.79 — Code405
 
 **Lean update history, CA detection, and browser navigation**
